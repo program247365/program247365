@@ -85,12 +85,6 @@ Loading releases...
 Loading commits...
 <!-- recent_commits ends -->
 
-## 🎵 What I'm Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=program247365&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
 ## 📈 Contribution Graph
 
 <p align="center">

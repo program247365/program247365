@@ -15,10 +15,6 @@ GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 g = Github(GITHUB_TOKEN)
 user = g.get_user()
 
-# Optional API keys
-SPOTIFY_CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
-SPOTIFY_CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
-
 class ProgressTracker:
     def __init__(self):
         self.steps = []
@@ -61,6 +57,8 @@ class ProgressTracker:
 
 # Initialize progress tracker
 progress = ProgressTracker()
+
+
 
 def get_latest_releases(num=5):
     """Get latest releases from your repositories"""
