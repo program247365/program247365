@@ -85,7 +85,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.README_GITHUB_TOKEN }}  # Use PAT for git operations
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -104,12 +106,20 @@ jobs:
         SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}  # Optional
       run: python build_readme.py
     
-    - name: Commit and push if changed
+    - name: Configure git
       run: |
+        git config --global user.name "README Bot"
         git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
+    
+    - name: Commit and push changes
+      run: |
         git add README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update README with latest content" && git push)
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update README with latest content"
+          git push
+        fi
 EOF
 
 # Create build_readme.py
