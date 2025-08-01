@@ -219,21 +219,42 @@ def get_random_greeting():
     return random.choice(greetings)
 
 def format_featured_projects(projects):
-    """Format featured projects as a grid"""
+    """Format featured projects as a clean 2x2 grid"""
     if not projects:
         return ""
     
-    markdown = '<p align="center">\n'
+    # Create a proper table layout for consistent spacing
+    markdown = '<div align="center">\n\n'
+    markdown += '<table>\n'
     
-    for i, project in enumerate(projects):
-        if i % 2 == 0 and i > 0:
-            markdown += '</p>\n<p align="center">\n'
+    # Process projects in pairs (rows of 2)
+    for i in range(0, len(projects), 2):
+        markdown += '<tr>\n'
         
-        markdown += f'''  <a href="{project['url']}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo={project['name']}&theme=tokyonight" alt="{project['name']}" />
-  </a>\n'''
+        # First project in the row
+        project = projects[i]
+        markdown += f'''<td align="center" width="50%">
+<a href="{project['url']}">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo={project['name']}&theme=tokyonight" alt="{project['name']}" />
+</a>
+</td>\n'''
+        
+        # Second project in the row (if exists)
+        if i + 1 < len(projects):
+            project = projects[i + 1]
+            markdown += f'''<td align="center" width="50%">
+<a href="{project['url']}">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo={project['name']}&theme=tokyonight" alt="{project['name']}" />
+</a>
+</td>\n'''
+        else:
+            # Empty cell for odd number of projects
+            markdown += '<td></td>\n'
+        
+        markdown += '</tr>\n'
     
-    markdown += '</p>\n'
+    markdown += '</table>\n\n'
+    markdown += '</div>\n'
     return markdown
 
 def replace_content(content, marker, replacement):
