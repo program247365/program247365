@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋 
 
 <!-- greeting starts -->
-Burning the midnight oil?
+Hello, night owl!
 <!-- greeting ends -->
 
 <div align="center">
@@ -65,7 +65,7 @@ Burning the midnight oil?
 <br>
 
 - **Total Stars Earned:** 171 ⭐
-- **Total Commits (Public):** 156243 
+- **Total Commits (Public):** 156245 
 - **Followers:** 116 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -75,7 +75,7 @@ Burning the midnight oil?
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 15 total (2.1 per day)
+- **Commits:** 17 total (2.4 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -90,22 +90,36 @@ Burning the midnight oil?
 ## 🚀 Featured Projects
 
 <!-- featured_projects starts -->
-<p align="center">
-  <a href="https://github.com/program247365/hackertuah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=hackertuah&theme=tokyonight" alt="hackertuah" />
-  </a>
-  <a href="https://github.com/program247365/tailwindcss-now">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=tailwindcss-now&theme=tokyonight" alt="tailwindcss-now" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/program247365/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=dotfiles&theme=tokyonight" alt="dotfiles" />
-  </a>
-  <a href="https://github.com/program247365/random-quotes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=random-quotes&theme=tokyonight" alt="random-quotes" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/program247365/hackertuah">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=hackertuah&theme=tokyonight" alt="hackertuah" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/program247365/tailwindcss-now">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=tailwindcss-now&theme=tokyonight" alt="tailwindcss-now" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/program247365/dotfiles">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=dotfiles&theme=tokyonight" alt="dotfiles" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/program247365/random-quotes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=program247365&repo=random-quotes&theme=tokyonight" alt="random-quotes" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- featured_projects ends -->
 
@@ -130,7 +144,7 @@ Burning the midnight oil?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/b156ffb54267995462f1bf00cc579f65f2ccbc4d) - Update README with latest content (Aug 01)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/597dd9594ff6a5393cad0736abf38eee76f94528) - fix: Fix layout for repos in readme. (Aug 01)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/6f1592d5f1f201a94f398a9eeea5de935ccee22a) - Update RSS feed. (Aug 01)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
@@ -192,5 +206,5 @@ Burning the midnight oil?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: August 01, 2025 at 03:43 AM EST*
+*Last updated: August 01, 2025 at 03:46 AM EST*
 <!-- last_updated ends -->
