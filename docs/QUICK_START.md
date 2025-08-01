@@ -37,7 +37,14 @@ make update
    - Name: `program247365` (your username)
    - Public, no README
 
-2. Push:
+2. **Set up GitHub Action Secret** (Required for auto-updates):
+   - Go to your repository Settings → Secrets and variables → Actions
+   - Click "New repository secret"
+   - Name: `README_GITHUB_TOKEN`
+   - Value: Your Personal Access Token from step 1
+   - Click "Add secret"
+
+3. Push:
 ```bash
 git add .
 git commit -m "Initial profile"

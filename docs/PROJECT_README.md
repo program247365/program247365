@@ -65,7 +65,9 @@ Content here will be auto-replaced
 
 ## 🚨 Troubleshooting
 
-- **Token not set**: Run `export GITHUB_TOKEN='your_token'`
+- **Token not set locally**: Run `export GITHUB_TOKEN='your_token'`
+- **GitHub Actions not working**: Set up `README_GITHUB_TOKEN` secret in repository Settings → Secrets and variables → Actions
+- **403 Permission errors**: The built-in `GITHUB_TOKEN` has limited permissions - use a Personal Access Token instead
 - **Permission errors**: Check repository Settings → Actions → General
 - **Not updating**: Check Actions tab for error logs
 
