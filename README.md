@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋 
 
 <!-- greeting starts -->
-Good afternoon!
+Good evening!
 <!-- greeting ends -->
 
 <div align="center">
@@ -65,7 +65,7 @@ Good afternoon!
 <br>
 
 - **Total Stars Earned:** 171 ⭐
-- **Total Commits (Public):** 156376 
+- **Total Commits (Public):** 156379 
 - **Followers:** 116 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -75,7 +75,7 @@ Good afternoon!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 148 total (21.1 per day)
+- **Commits:** 151 total (21.6 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -144,19 +144,13 @@ Good afternoon!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/a84c9f6f597cb23519c12bd08b2686ae82db8e87) - Update README with latest content (Aug 01)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/1a5a393f4d1e6aed293d84f00d34477de273e19f) - fix: Remove spotify integration that did not work. (Aug 01)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/6f1592d5f1f201a94f398a9eeea5de935ccee22a) - Update RSS feed. (Aug 01)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
 - 💻 [ophs-explore](https://github.com/program247365/ophs-explore/commit/3a0ae083ca4dd7973eec614475cbad85381733da) - feat: Books favicon (Jun 19)
 
 <!-- recent_commits ends -->
-
-## 🎵 What I'm Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=program247365&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
 
 ## 📈 Contribution Graph
 
@@ -206,5 +200,5 @@ Good afternoon!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: August 01, 2025 at 09:46 AM EST*
+*Last updated: August 01, 2025 at 02:04 PM EST*
 <!-- last_updated ends -->
