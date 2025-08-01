@@ -1,0 +1,21 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.github/
+.gitignore
+README.md
+*.backup.*.md
+.env
+.env.local
+.DS_Store
+Makefile
+init.sh
+dev.sh
+docker-compose.yml
+Dockerfile
+.dockerignore
+# Docker build context configuration moved to config/.dockerignore

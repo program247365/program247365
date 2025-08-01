@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  github-profile-readme:
+    build: .
+    environment:
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - SPOTIFY_CLIENT_ID=${SPOTIFY_CLIENT_ID:-}
+      - SPOTIFY_CLIENT_SECRET=${SPOTIFY_CLIENT_SECRET:-}
+    volumes:
+      - ./README.md:/app/README.md
+      - ./templates/README_TEMPLATE.md:/app/templates/README_TEMPLATE.md
+    command: python src/build_readme.py
