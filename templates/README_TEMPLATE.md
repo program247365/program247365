@@ -109,7 +109,7 @@ Loading commits...
 - ⚛️ Led, planned, and executed React.js 18 upgrade across CMS improving collaboration for 10+ engineers
 - 🏗️ Bootstrapped new CMS frontend using Next.js, Turbo, and Bun with integrated TipTap headless editor
 - 📦 Created end-to-end process for UI Component Design System packaging and NPM distribution via Rollup.js
-- ️☁ Built and deployed FastAPI services on GitHub Actions using Terraform for internal AWS tooling
+- ️☁ Built FastAPI web services that were deployed to AWS Lambda for data processing workloads and web application backends
 
 ### Previous Roles
 - **NFTco** - Senior Fullstack Engineer (Web3 startup)
