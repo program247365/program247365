@@ -5,6 +5,7 @@ import requests
 import feedparser
 from datetime import datetime, timedelta
 from dateutil import parser
+import pytz
 from github import Github
 import random
 import time
@@ -382,9 +383,11 @@ def main():
     readme = replace_content(readme, "github_stats", stats_md)
     readme = replace_content(readme, "featured_projects", featured_md)
     
-    # Add last updated timestamp
-    readme = replace_content(readme, "last_updated", 
-                           f"*Last updated: {datetime.now().strftime('%B %d, %Y at %I:%M %p')} EST*")
+    # Add last updated timestamp in EST
+    est = pytz.timezone('US/Eastern')
+    now_est = datetime.now(est)
+    timestamp = now_est.strftime('%B %d, %Y at %I:%M %p EST')
+    readme = replace_content(readme, "last_updated", f"*Last updated: {timestamp}*")
     
     # Step 11: Write updated README
     progress.next_step()
@@ -393,7 +396,9 @@ def main():
     
     # Complete the process
     progress.complete()
-    print(f"📝 README updated successfully at {datetime.now().strftime('%B %d, %Y at %I:%M %p')} EST")
+    est = pytz.timezone('US/Eastern')
+    now_est = datetime.now(est)
+    print(f"📝 README updated successfully at {now_est.strftime('%B %d, %Y at %I:%M %p EST')}")
 
 if __name__ == "__main__":
     main()
