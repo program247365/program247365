@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋 
 
 <!-- greeting starts -->
-Afternoon vibes!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -65,7 +65,7 @@ Afternoon vibes!
 <br>
 
 - **Total Stars Earned:** 171 ⭐
-- **Total Commits (Public):** 156480 
+- **Total Commits (Public):** 156487 
 - **Followers:** 118 
 - **Following:** 257
 - **Public Repositories:** 65
@@ -75,7 +75,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 42 total (6.0 per day)
+- **Commits:** 48 total (6.9 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -144,9 +144,9 @@ Afternoon vibes!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/9455f1df265e604282a73ba4405d504cceeea954) - Update README with latest content (Aug 20)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/f7bdcc18db326c0ddae011f4ea539ff8e3df1f74) - feat: LazyGit integration with NeoVim (Aug 20)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/a878cf45fa540cc934f9aff62b364ae9944251b0) - Update README with latest content (Aug 20)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/35ab9b61b9d0a5aa33fab7ace1536e55c706ecaf) - Update RSS feed. (Aug 20)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/f0e1918c38043d686212b4ed559249393f4389bf) - fix: Rename folders to config correctly. (Aug 19)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
 
@@ -200,5 +200,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: August 20, 2025 at 08:04 AM EST*
+*Last updated: August 20, 2025 at 02:04 PM EST*
 <!-- last_updated ends -->
