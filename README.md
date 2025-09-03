@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋 
 
 <!-- greeting starts -->
-Burning the midnight oil?
+Rise and shine!
 <!-- greeting ends -->
 
 <div align="center">
@@ -65,7 +65,7 @@ Burning the midnight oil?
 <br>
 
 - **Total Stars Earned:** 174 ⭐
-- **Total Commits (Public):** 156557 
+- **Total Commits (Public):** 156559 
 - **Followers:** 121 
 - **Following:** 257
 - **Public Repositories:** 65
@@ -126,11 +126,11 @@ Burning the midnight oil?
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Github Readme That Updates](https://kbr.sh/post/2025/Sep/3/github-readme-that-updates/#atom-everything) - Sep 03, 2025
 - 📝 [Context Engineering](https://kbr.sh/blogmark/2025/Jul/6/context-engineering/#atom-everything) - Jul 06, 2025
 - 📝 [Vibe Coding](https://kbr.sh/post/2025/Jun/9/vibe-coding/#atom-everything) - Jun 09, 2025
 - 📝 [8-Bit Spelling Game: Built with Claude](https://kbr.sh/post/2025/May/21/8-bit-spelling-game-built-with-claude/#atom-everything) - May 21, 2025
 - 📝 [Cocogitto: The conventional commit toolbox](https://kbr.sh/post/2025/May/17/cocogitto-the-conventional-commit-toolbox/#atom-everything) - May 17, 2025
-- 📝 [Raycast Now Has an iOS App](https://kbr.sh/blogmark/2025/May/1/raycast-now-has-an-ios-app/#atom-everything) - May 01, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -144,9 +144,9 @@ Burning the midnight oil?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/3faca6cf1d2886ebaa48014585e6d61303d17076) - Update README with latest content (Sep 02)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/092446e2d3e2a54226d5e2ebd8a2e3469adc4277) - Update RSS feed. (Sep 03)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/b08b5997fdc591c04572bc343045925445aa63b6) - Update README with latest content (Sep 03)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/161f8e39266f1d28f4c70bacf3ac9a7edcf5ff32) - chore: Update lazyvim, add plugins. (Sep 02)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/619d5a3d56a9b6f5d1fa70498d05899c301df359) - Update RSS feed. (Sep 02)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
 
@@ -200,5 +200,5 @@ Burning the midnight oil?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: September 02, 2025 at 08:07 PM EST*
+*Last updated: September 03, 2025 at 02:04 AM EST*
 <!-- last_updated ends -->
