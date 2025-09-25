@@ -1,7 +1,7 @@
-# Hey there! I'm Kevin 👋 
+# Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you're having a great day!
+Good evening!
 <!-- greeting ends -->
 
 <div align="center">
@@ -15,6 +15,8 @@ Hope you're having a great day!
 </p>
 
 ## 👨‍💻 About Me
+
+> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
 
 🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
 
@@ -44,7 +46,7 @@ Hope you're having a great day!
 
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Currently Exploring:** AI/LLMs integration, AI Agents 
+**Currently Exploring:** AI/LLMs integration, AI Agents
 
 </details>
 
@@ -65,9 +67,9 @@ Hope you're having a great day!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156605 
-- **Followers:** 124 
-- **Following:** 257
+- **Total Commits (Public):** 156607 
+- **Followers:** 125 
+- **Following:** 256
 - **Public Repositories:** 65
 - **Public Gists:** 42
 - **Top Languages:** TypeScript, JavaScript, MDX
@@ -75,7 +77,7 @@ Hope you're having a great day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 35 total (5.0 per day)
+- **Commits:** 37 total (5.3 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -144,7 +146,7 @@ Hope you're having a great day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/5b7f9b2284c08566b5e626c1308c08684926b682) - Update README with latest content (Sep 25)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/f3f1f92b83a2218a296d0ccaa4b765c86d1e3770) - feat: Update headline in readme. (Sep 25)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/805dabd8fd79c102c3d25d82e7e67626bce644c1) - Update RSS feed. (Sep 25)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/b3d24a836c7eca15fb31bf11b6d4dd5741825de7) - feat: Add clean-xcode function cuz tired of doing it manually (Sep 23)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
@@ -167,12 +169,14 @@ Hope you're having a great day!
 ## 💼 Professional Experience Highlights
 
 ### Yahoo! - Senior Software Dev Engineer (2023 - Present)
+
 - ⚛️ Led, planned, and executed React.js 18 upgrade across CMS improving collaboration for 10+ engineers
 - 🏗️ Bootstrapped new CMS frontend using Next.js, Turbo, and Bun with integrated TipTap headless editor
 - 📦 Created end-to-end process for UI Component Design System packaging and NPM distribution via Rollup.js
 - ️☁ Built FastAPI web services that were deployed to AWS Lambda for data processing workloads and web application backends
 
 ### Previous Roles
+
 - **NFTco** - Senior Fullstack Engineer (Web3 startup)
 - **ACV Auctions** - Senior Frontend Engineer (Marketplace startup)
 - **Nota** - Senior Fullstack Engineer (Financial Services Startup)
@@ -200,5 +204,5 @@ Hope you're having a great day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: September 25, 2025 at 08:05 AM EST*
+*Last updated: September 25, 2025 at 01:55 PM EST*
 <!-- last_updated ends -->
