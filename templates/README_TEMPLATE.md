@@ -1,4 +1,4 @@
-# Hey there! I'm Kevin 👋 
+# Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
 Good morning!
@@ -15,6 +15,8 @@ Good morning!
 </p>
 
 ## 👨‍💻 About Me
+
+> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
 
 🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
 
@@ -44,7 +46,7 @@ Good morning!
 
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Currently Exploring:** AI/LLMs integration, AI Agents 
+**Currently Exploring:** AI/LLMs integration, AI Agents
 
 </details>
 
@@ -100,12 +102,14 @@ Loading commits...
 ## 💼 Professional Experience Highlights
 
 ### Yahoo! - Senior Software Dev Engineer (2023 - Present)
+
 - ⚛️ Led, planned, and executed React.js 18 upgrade across CMS improving collaboration for 10+ engineers
 - 🏗️ Bootstrapped new CMS frontend using Next.js, Turbo, and Bun with integrated TipTap headless editor
 - 📦 Created end-to-end process for UI Component Design System packaging and NPM distribution via Rollup.js
 - ️☁ Built FastAPI web services that were deployed to AWS Lambda for data processing workloads and web application backends
 
 ### Previous Roles
+
 - **NFTco** - Senior Fullstack Engineer (Web3 startup)
 - **ACV Auctions** - Senior Frontend Engineer (Marketplace startup)
 - **Nota** - Senior Fullstack Engineer (Financial Services Startup)
