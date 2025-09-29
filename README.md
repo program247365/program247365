@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Afternoon vibes!
+Good evening!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Afternoon vibes!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156627 
+- **Total Commits (Public):** 156629 
 - **Followers:** 125 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -77,7 +77,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 37 total (5.3 per day)
+- **Commits:** 38 total (5.4 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -146,9 +146,9 @@ Afternoon vibes!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/257d76320b81f699471ab668d66ff35012ca7bb9) - Update README with latest content (Sep 29)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/ce7219c689d91a0e62b7df0954b01317c8e62961) - fix: Make claude code alias before sourcing ~/.zshrc.local (Sep 29)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/12e21732f965bf792015976ee5583264a101ca1d) - Update README with latest content (Sep 29)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/f2292759d8c1fb5bb221521ea67ea4f1a36a8a05) - Update RSS feed. (Sep 29)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/b3d24a836c7eca15fb31bf11b6d4dd5741825de7) - feat: Add clean-xcode function cuz tired of doing it manually (Sep 23)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
 
@@ -204,5 +204,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: September 29, 2025 at 08:05 AM EST*
+*Last updated: September 29, 2025 at 02:04 PM EST*
 <!-- last_updated ends -->
