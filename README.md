@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Evening, coder!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Evening, coder!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156712 
+- **Total Commits (Public):** 156713 
 - **Followers:** 123 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -77,7 +77,7 @@ Evening, coder!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 36 total (5.1 per day)
+- **Commits:** 35 total (5.0 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Evening, coder!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Everyone Should Be Using Claude Code More](https://kbr.sh/blogmark/2025/Oct/15/everyone-should-be-using-claude-code-more/#atom-everything) - Oct 15, 2025
 - 📝 [Github Readme That Updates](https://kbr.sh/post/2025/Sep/3/github-readme-that-updates/#atom-everything) - Sep 03, 2025
 - 📝 [Context Engineering](https://kbr.sh/blogmark/2025/Jul/6/context-engineering/#atom-everything) - Jul 06, 2025
 - 📝 [Vibe Coding](https://kbr.sh/post/2025/Jun/9/vibe-coding/#atom-everything) - Jun 09, 2025
 - 📝 [8-Bit Spelling Game: Built with Claude](https://kbr.sh/post/2025/May/21/8-bit-spelling-game-built-with-claude/#atom-everything) - May 21, 2025
-- 📝 [Cocogitto: The conventional commit toolbox](https://kbr.sh/post/2025/May/17/cocogitto-the-conventional-commit-toolbox/#atom-everything) - May 17, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -146,7 +146,7 @@ Evening, coder!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/cdeacf56188dea64e045eed78080d8d11bb83209) - Update README with latest content (Oct 15)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/a806182307ee4486981f71248d8f4eb70ec5335b) - Update README with latest content (Oct 15)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/b283adb0d4c97629723949b2f931b484a58b7adc) - Update RSS feed. (Oct 15)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/7b213c376d22c97ea8f14e32711286e951841cbc) - chore: Move from Kap to Cap https://cap.so/download. (Oct 08)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
@@ -204,5 +204,5 @@ Evening, coder!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 15, 2025 at 02:04 PM EST*
+*Last updated: October 15, 2025 at 08:06 PM EST*
 <!-- last_updated ends -->
