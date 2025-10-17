@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you had a productive day!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you had a productive day!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156717 
+- **Total Commits (Public):** 156719 
 - **Followers:** 123 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -77,7 +77,7 @@ Hope you had a productive day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 35 total (5.0 per day)
+- **Commits:** 36 total (5.1 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Hope you had a productive day!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [I've shipped the "notes" feature to my blog. When ...](https://kbr.sh/note/1/#atom-everything) - Oct 16, 2025
+- 📝 [The Way of Code](https://kbr.sh/blogmark/2025/Oct/16/the-way-of-code/#atom-everything) - Oct 16, 2025
 - 📝 [Everyone Should Be Using Claude Code More](https://kbr.sh/blogmark/2025/Oct/15/everyone-should-be-using-claude-code-more/#atom-everything) - Oct 15, 2025
 - 📝 [Github Readme That Updates](https://kbr.sh/post/2025/Sep/3/github-readme-that-updates/#atom-everything) - Sep 03, 2025
 - 📝 [Context Engineering](https://kbr.sh/blogmark/2025/Jul/6/context-engineering/#atom-everything) - Jul 06, 2025
-- 📝 [Vibe Coding](https://kbr.sh/post/2025/Jun/9/vibe-coding/#atom-everything) - Jun 09, 2025
-- 📝 [8-Bit Spelling Game: Built with Claude](https://kbr.sh/post/2025/May/21/8-bit-spelling-game-built-with-claude/#atom-everything) - May 21, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -146,9 +146,9 @@ Hope you had a productive day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/20309d4838fc2eb5ca1724385a540a853fb8774c) - Update README with latest content (Oct 16)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/bc6c0d89aa7a37d076eb4de9125d00d0436c121d) - chore: Update lazyvim (Oct 16)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/4ca9c5d0957c6acc2cc086b511896df4575ecb56) - Update README with latest content (Oct 16)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/ec163c53dc7e74255a3449069f16e4f53fced9d0) - Update RSS feed. (Oct 16)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/7b213c376d22c97ea8f14e32711286e951841cbc) - chore: Move from Kap to Cap https://cap.so/download. (Oct 08)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
 
@@ -204,5 +204,5 @@ Hope you had a productive day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 16, 2025 at 02:04 PM EST*
+*Last updated: October 16, 2025 at 08:06 PM EST*
 <!-- last_updated ends -->
