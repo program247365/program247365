@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Burning the midnight oil?
+Morning, fellow developer!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Burning the midnight oil?
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156729 
+- **Total Commits (Public):** 156731 
 - **Followers:** 123 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -77,7 +77,7 @@ Burning the midnight oil?
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 40 total (5.7 per day)
+- **Commits:** 41 total (5.9 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Burning the midnight oil?
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Magical Thinking is the belief that your thoughts ...](https://kbr.sh/note/2/#atom-everything) - Oct 18, 2025
 - 📝 [I've shipped the "notes" feature to my blog. When ...](https://kbr.sh/note/1/#atom-everything) - Oct 16, 2025
 - 📝 [The Way of Code](https://kbr.sh/blogmark/2025/Oct/16/the-way-of-code/#atom-everything) - Oct 16, 2025
 - 📝 [Everyone Should Be Using Claude Code More](https://kbr.sh/blogmark/2025/Oct/15/everyone-should-be-using-claude-code-more/#atom-everything) - Oct 15, 2025
 - 📝 [Github Readme That Updates](https://kbr.sh/post/2025/Sep/3/github-readme-that-updates/#atom-everything) - Sep 03, 2025
-- 📝 [Context Engineering](https://kbr.sh/blogmark/2025/Jul/6/context-engineering/#atom-everything) - Jul 06, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -146,9 +146,9 @@ Burning the midnight oil?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/e36f89392a27e3807ec6a511674dd3e9bbd93837) - Update RSS feed. (Oct 18)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/7c3e8740299c4b246788a5f35682de8535dc3fd8) - Update README with latest content (Oct 18)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/f6230dfd9bb7121bd4a8de7f18b03bce400ce3a0) - fix: Bear app Claude skill: no limits by default (Oct 17)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/876f99544e6dcda59cca0354d3fe0fe7e4a12b4f) - Update README with latest content (Oct 17)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/af2c1ecc1a0b612524821b0d758c10661c9ba2f6) - Update RSS feed. (Oct 17)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
 
@@ -204,5 +204,5 @@ Burning the midnight oil?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 17, 2025 at 08:07 PM EST*
+*Last updated: October 18, 2025 at 02:04 AM EST*
 <!-- last_updated ends -->
