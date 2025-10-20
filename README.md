@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Morning, fellow developer!
+Afternoon vibes!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Morning, fellow developer!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156741 
+- **Total Commits (Public):** 156742 
 - **Followers:** 123 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -128,11 +128,11 @@ Morning, fellow developer!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
+- 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
 - 📝 [Magical Thinking is the belief that your thoughts ...](https://kbr.sh/note/2/#atom-everything) - Oct 18, 2025
 - 📝 [I've shipped the "notes" feature to my blog. When ...](https://kbr.sh/note/1/#atom-everything) - Oct 16, 2025
 - 📝 [The Way of Code](https://kbr.sh/blogmark/2025/Oct/16/the-way-of-code/#atom-everything) - Oct 16, 2025
-- 📝 [Everyone Should Be Using Claude Code More](https://kbr.sh/blogmark/2025/Oct/15/everyone-should-be-using-claude-code-more/#atom-everything) - Oct 15, 2025
-- 📝 [Github Readme That Updates](https://kbr.sh/post/2025/Sep/3/github-readme-that-updates/#atom-everything) - Sep 03, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -146,8 +146,8 @@ Morning, fellow developer!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [program247365](https://github.com/program247365/program247365/commit/0c5caa357c00cf9812ae24da34ac37ed19fc7ee0) - Update README with latest content (Oct 20)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/5c56e1a848cfd31b8abf7a285c020fe85dae3ca8) - Update RSS feed. (Oct 20)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/6f4826ae9c141a2eee590d9aea4510c5b7c918ab) - Update README with latest content (Oct 20)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/f6230dfd9bb7121bd4a8de7f18b03bce400ce3a0) - fix: Bear app Claude skill: no limits by default (Oct 17)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
@@ -204,5 +204,5 @@ Morning, fellow developer!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 20, 2025 at 02:04 AM EST*
+*Last updated: October 20, 2025 at 08:05 AM EST*
 <!-- last_updated ends -->
