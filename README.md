@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you're having a great day!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you're having a great day!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156747 
+- **Total Commits (Public):** 156748 
 - **Followers:** 123 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -77,7 +77,7 @@ Hope you're having a great day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 41 total (5.9 per day)
+- **Commits:** 40 total (5.7 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Hope you're having a great day!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Hackertuah: From Idea to Top 20 on Hacker News in Record Time](https://kbr.sh/post/2025/Oct/21/hackertuah-rust-cli/#atom-everything) - Oct 21, 2025
 - 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
 - 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
 - 📝 [Magical Thinking is the belief that your thoughts ...](https://kbr.sh/note/2/#atom-everything) - Oct 18, 2025
-- 📝 [I've shipped the "notes" feature to my blog. When ...](https://kbr.sh/note/1/#atom-everything) - Oct 16, 2025
-- 📝 [The Way of Code](https://kbr.sh/blogmark/2025/Oct/16/the-way-of-code/#atom-everything) - Oct 16, 2025
+- 📝 [Building a Bear Notes Skill for Claude Code](https://kbr.sh/post/2025/Oct/16/bear-notes-claude-skill/#atom-everything) - Oct 16, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -146,7 +146,7 @@ Hope you're having a great day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/2e647ac899b69314cb010f44313657c2c4b4ea8e) - Update README with latest content (Oct 21)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/a6592160ba7ef9d1596f062a670c04a072bac8e2) - Update README with latest content (Oct 21)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/8d9b71d86150a4d28cf9a615d42c526f9cf2f312) - Update RSS feed. (Oct 21)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/f6230dfd9bb7121bd4a8de7f18b03bce400ce3a0) - fix: Bear app Claude skill: no limits by default (Oct 17)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
@@ -204,5 +204,5 @@ Hope you're having a great day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 21, 2025 at 08:05 AM EST*
+*Last updated: October 21, 2025 at 02:04 PM EST*
 <!-- last_updated ends -->
