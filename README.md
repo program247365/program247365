@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good evening!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Good evening!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156756 
+- **Total Commits (Public):** 156757 
 - **Followers:** 123 
 - **Following:** 256
 - **Public Repositories:** 65
@@ -128,11 +128,11 @@ Good evening!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
-- 📝 [Hackertuah: From Idea to Top 20 on Hacker News in Record Time](https://kbr.sh/post/2025/Oct/21/hackertuah-rust-cli/#atom-everything) - Oct 21, 2025
 - 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
 - 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
 - 📝 [Magical Thinking is the belief that your thoughts ...](https://kbr.sh/note/2/#atom-everything) - Oct 18, 2025
 - 📝 [Building a Bear Notes Skill for Claude Code](https://kbr.sh/post/2025/Oct/16/bear-notes-claude-skill/#atom-everything) - Oct 16, 2025
+- 📝 [I've shipped the "notes" feature to my blog. When ...](https://kbr.sh/note/1/#atom-everything) - Oct 16, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -146,8 +146,8 @@ Good evening!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [program247365](https://github.com/program247365/program247365/commit/2538bf0ba0e2e38770c6458216fc2f7ce1af16a6) - Update README with latest content (Oct 22)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/24d16848c9294a787b71a6a691a02917ef7e701b) - chore: Update alias for prev sprint. (Oct 22)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/eec8f66c75594dbe79df2de5514125b06eb7828c) - Update README with latest content (Oct 22)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/1cacbcfdec37fa5cbde879a07e44ceb48d6271a4) - Update RSS feed. (Oct 22)
 - 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/67c1f81c37caa14fee989fae94421f983875eb5d) - chore(version): 0.2.0 (Jul 30)
 - 💻 [rem](https://github.com/program247365/rem/commit/78852f4ff8dd65a46c814e9566ad6bf910128e18) - Merge pull request #4 from program247365/fix/app-signing-and-fix (Jul 15)
@@ -204,5 +204,5 @@ Good evening!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 22, 2025 at 02:04 PM EST*
+*Last updated: October 22, 2025 at 08:07 PM EST*
 <!-- last_updated ends -->
