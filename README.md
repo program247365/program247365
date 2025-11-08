@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you had a productive day!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you had a productive day!
 <br>
 
 - **Total Stars Earned:** 173 ⭐
-- **Total Commits (Public):** 156853 
+- **Total Commits (Public):** 156855 
 - **Followers:** 122 
 - **Following:** 256
 - **Public Repositories:** 67
@@ -77,7 +77,7 @@ Hope you had a productive day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 52 total (7.4 per day)
+- **Commits:** 53 total (7.6 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -148,8 +148,8 @@ Hope you had a productive day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/c58f118456e2b0ae8f6db6ae114e0a412e029e18) - chore: Update claude path to latest when installing correctly. (Nov 07)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/33d61a2625074172153f0490746ffe6aabc44a6f) - Update README with latest content (Nov 07)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/bc558da7c084032920be29115243d46d7fd07846) - chore: Add https://github.com/kyu08/fzf-make to tools. (Nov 07)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/b437c139b8526f356fd483902003278dff8da7e9) - Update README with latest content (Nov 07)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/4ab5784795b3f3920c5136fd0ece332ef0335113) - Update RSS feed. (Nov 07)
 - 💻 [tools](https://github.com/program247365/tools/commit/07533866570be7d69ffb29c8dd9b50f32dca2d03) - feat: Update index page on build. (Nov 05)
 - 💻 [tools-raycast-search-extension](https://github.com/program247365/tools-raycast-search-extension/commit/01acf89d6c63e94073c7c5ad340a4100e2dc732b) - fix: Fix icon, update functionality. (Nov 04)
@@ -206,5 +206,5 @@ Hope you had a productive day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 07, 2025 at 01:04 PM EST*
+*Last updated: November 07, 2025 at 07:06 PM EST*
 <!-- last_updated ends -->
