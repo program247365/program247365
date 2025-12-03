@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good evening!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Good evening!
 <br>
 
 - **Total Stars Earned:** 174 ⭐
-- **Total Commits (Public):** 156979 
+- **Total Commits (Public):** 156980 
 - **Followers:** 126 
 - **Following:** 256
 - **Public Repositories:** 67
@@ -128,13 +128,13 @@ Good evening!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Bun is joining Anthropic](https://kbr.sh/blogmark/2025/Dec/2/bun-is-joining-anthropic/#atom-everything) - Dec 02, 2025
 - 📝 [We had a breakthrough in AI with transformers.
 
 ...](https://kbr.sh/note/5/#atom-everything) - Nov 01, 2025
 - 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
 - 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
 - 📝 [Magical Thinking is the belief that your thoughts ...](https://kbr.sh/note/2/#atom-everything) - Oct 18, 2025
-- 📝 [Building a Bear Notes Skill for Claude Code](https://kbr.sh/post/2025/Oct/16/bear-notes-claude-skill/#atom-everything) - Oct 16, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -148,7 +148,7 @@ Good evening!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/31a93b0e99282ffb0a4382575343368757c529fa) - Update README with latest content (Dec 02)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/4bd3fdf9540786bc9cddd88921808b6f4a778355) - Update README with latest content (Dec 02)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/2caf04b556bf6f4868961dc812c2b44a08df9e78) - Update RSS feed. (Dec 02)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/b96dd71dbaa04c3fa1eadde5b704572897de8afb) - chore: Add https://github.com/kyu08/fzf-make to tools. (Nov 07)
 - 💻 [tools](https://github.com/program247365/tools/commit/07533866570be7d69ffb29c8dd9b50f32dca2d03) - feat: Update index page on build. (Nov 05)
@@ -206,5 +206,5 @@ Good evening!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: December 02, 2025 at 01:04 PM EST*
+*Last updated: December 02, 2025 at 07:06 PM EST*
 <!-- last_updated ends -->
