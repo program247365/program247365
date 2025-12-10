@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hello, night owl!
+Good morning!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,8 +67,8 @@ Hello, night owl!
 <br>
 
 - **Total Stars Earned:** 174 ⭐
-- **Total Commits (Public):** 158335 
-- **Followers:** 130 
+- **Total Commits (Public):** 158337 
+- **Followers:** 131 
 - **Following:** 257
 - **Public Repositories:** 67
 - **Public Gists:** 42
@@ -148,9 +148,9 @@ Hello, night owl!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/2861e278d94975a3646e11688588f7f8a8082ede) - Update RSS feed. (Dec 10)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/020f88edcad2c970f6931be7c9945b5d05a5aaab) - Update README with latest content (Dec 10)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/0e5b297c4f82b7fd944548c4e3a2747338723093) - fix: Fixing wrong spark installing, and macOS apps from store, and brew update. (Dec 09)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/a51870a3ce1c37eea5f621be4f0f3866f836d2cf) - Update README with latest content (Dec 09)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/0eea2137298798473b7d5cb9d22d039f6b1a2e4c) - Update RSS feed. (Dec 09)
 - 💻 [tools](https://github.com/program247365/tools/commit/07533866570be7d69ffb29c8dd9b50f32dca2d03) - feat: Update index page on build. (Nov 05)
 - 💻 [tools-raycast-search-extension](https://github.com/program247365/tools-raycast-search-extension/commit/01acf89d6c63e94073c7c5ad340a4100e2dc732b) - fix: Fix icon, update functionality. (Nov 04)
 
@@ -206,5 +206,5 @@ Hello, night owl!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: December 09, 2025 at 07:07 PM EST*
+*Last updated: December 10, 2025 at 01:05 AM EST*
 <!-- last_updated ends -->
