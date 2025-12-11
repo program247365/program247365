@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good evening!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,8 +67,8 @@ Good evening!
 <br>
 
 - **Total Stars Earned:** 174 ⭐
-- **Total Commits (Public):** 158350 
-- **Followers:** 131 
+- **Total Commits (Public):** 158352 
+- **Followers:** 130 
 - **Following:** 257
 - **Public Repositories:** 67
 - **Public Gists:** 42
@@ -77,7 +77,7 @@ Good evening!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 52 total (7.4 per day)
+- **Commits:** 53 total (7.6 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -148,11 +148,11 @@ Good evening!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/468123805ef871796660cb1bdd50bd4a55816762) - feat: Adding Docker Desktop for mac back. (Dec 10)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/8821d25ee255cdbf8071fbf2f8e0d3bb5958e636) - Update README with latest content (Dec 10)
 - 💻 [tools](https://github.com/program247365/tools/commit/d1538bd890d37b549251068717cebd5ad70e1fc0) - Merge pull request #1 from program247365/vercel/nextjsreact-flight-rce-vulnera-l553la (Dec 10)
 - 💻 [slack-emojis](https://github.com/program247365/slack-emojis/commit/79cf94d817d77384db0cef1dcf81c2c91d6377ca) - fix: Check for dupes in script. (Dec 10)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/9f92a3f9293260161b6deeca8064a576270c8bcf) - Update README with latest content (Dec 10)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/2861e278d94975a3646e11688588f7f8a8082ede) - Update RSS feed. (Dec 10)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/0e5b297c4f82b7fd944548c4e3a2747338723093) - fix: Fixing wrong spark installing, and macOS apps from store, and brew update. (Dec 09)
 
 <!-- recent_commits ends -->
 
@@ -206,5 +206,5 @@ Good evening!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: December 10, 2025 at 01:05 PM EST*
+*Last updated: December 10, 2025 at 07:07 PM EST*
 <!-- last_updated ends -->
