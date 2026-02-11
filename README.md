@@ -16,9 +16,9 @@ Late night coding session?
 
 ## 👨‍💻 About Me
 
-> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
+> Staff Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
 
-🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
+🚀 Staff Software Engineer at **Supernormal Technologies** working on changing how work gets done with AI.
 
 🏡 Based in Buffalo, NY
 
@@ -40,7 +40,7 @@ Late night coding session?
 
 **Frontend:** React, Next.js, Vue.js, TypeScript, TailwindCSS, Storybook
 
-**Backend:** Node.js, Python (FastAPI), Java (Spring), Rust, Go
+**Backend:** Node.js, Python (FastAPI), Java (Spring), Rust, Go, Ruby on Rails
 
 **Cloud & DevOps:** AWS (Lambda, Glue, S3, ECS), Terraform, Docker, Kubernetes, GitHub Actions
 
@@ -67,8 +67,9 @@ Late night coding session?
 <br>
 
 - **Total Stars Earned:** 175 ⭐
-- **Total Commits (Public):** 158670 
-- **Followers:** 128 
+- **Total Commits (Public):** 158670
+- **Followers:** 128
+
 - **Following:** 257
 - **Public Repositories:** 67
 - **Public Gists:** 42
@@ -77,6 +78,7 @@ Late night coding session?
 </details>
 
 ### 📈 This Week's Coding Stats
+
 - **Commits:** 36 total (5.1 per day)
 - **Most Active Language:** TypeScript
 
@@ -132,7 +134,8 @@ Late night coding session?
 - 📝 [Bun is joining Anthropic](https://kbr.sh/blogmark/2025/Dec/2/bun-is-joining-anthropic/#atom-everything) - Dec 02, 2025
 - 📝 [We had a breakthrough in AI with transformers.
 
-...](https://kbr.sh/note/5/#atom-everything) - Nov 01, 2025
+...](<https://kbr.sh/note/5/#atom-everything>) - Nov 01, 2025
+
 - 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
 - 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
 
