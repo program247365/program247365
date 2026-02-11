@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Late night coding session?
+Good morning!
 <!-- greeting ends -->
 
 <div align="center">
@@ -16,9 +16,9 @@ Late night coding session?
 
 ## 👨‍💻 About Me
 
-> Staff Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
+> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
 
-🚀 Staff Software Engineer at **Supernormal Technologies** working on changing how work gets done with AI.
+🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
 
 🏡 Based in Buffalo, NY
 
@@ -40,7 +40,7 @@ Late night coding session?
 
 **Frontend:** React, Next.js, Vue.js, TypeScript, TailwindCSS, Storybook
 
-**Backend:** Node.js, Python (FastAPI), Java (Spring), Rust, Go, Ruby on Rails
+**Backend:** Node.js, Python (FastAPI), Java (Spring), Rust, Go
 
 **Cloud & DevOps:** AWS (Lambda, Glue, S3, ECS), Terraform, Docker, Kubernetes, GitHub Actions
 
@@ -67,9 +67,8 @@ Late night coding session?
 <br>
 
 - **Total Stars Earned:** 175 ⭐
-- **Total Commits (Public):** 158670
-- **Followers:** 128
-
+- **Total Commits (Public):** 158674 
+- **Followers:** 128 
 - **Following:** 257
 - **Public Repositories:** 67
 - **Public Gists:** 42
@@ -78,16 +77,17 @@ Late night coding session?
 </details>
 
 ### 📈 This Week's Coding Stats
-
-- **Commits:** 36 total (5.1 per day)
+- **Commits:** 38 total (5.4 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
 
 ## 🎯 Current Focus
 
-- 🤖 Building AI agents
+- 🔭 Working on data pipelines and content management systems at Yahoo!
 - 🌱 Deep diving into AI integration and prompt engineering
+- 👯 Looking to collaborate on Rust projects and developer tools
+- 💬 Ask me about React performance optimization, AWS architecture, or building developer tools
 
 ## 🚀 Featured Projects
 
@@ -128,14 +128,11 @@ Late night coding session?
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [OpenClaw](https://kbr.sh/blogmark/2026/Feb/10/openclaw/#atom-everything) - Feb 11, 2026
+- 📝 [The Adolescence of Technology](https://kbr.sh/blogmark/2026/Feb/10/the-adolescence-of-technology/#atom-everything) - Feb 11, 2026
+- 📝 [teleporting into the future and robbing yourself of retirement projects](https://kbr.sh/blogmark/2026/Feb/10/teleporting-into-the-future-and-robbing-yourself-of-retirement-p/#atom-everything) - Feb 11, 2026
+- 📝 [Code like a surgeon](https://kbr.sh/blogmark/2026/Feb/10/code-like-a-surgeon/#atom-everything) - Feb 11, 2026
 - 📝 [With the help of Claude code, I’ve been able to ma...](https://kbr.sh/note/8/#atom-everything) - Feb 10, 2026
-- 📝 [Bun is joining Anthropic](https://kbr.sh/blogmark/2025/Dec/2/bun-is-joining-anthropic/#atom-everything) - Dec 02, 2025
-- 📝 [We had a breakthrough in AI with transformers.
-
-...](<https://kbr.sh/note/5/#atom-everything>) - Nov 01, 2025
-
-- 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
-- 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -149,8 +146,8 @@ Late night coding session?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/4d201c540d24ec2fe97cb7e60fe0b73645b79a5f) - Update README with latest content (Feb 10)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/108fe37e30422b155abd477873182066ddade78b) - Update RSS feed. (Feb 10)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/e7e1482714b31afb6610ef0605e87ec6ebfca9a9) - chore: Update what I'm working on. (Feb 11)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/4fd4b4588ba49b9ff1a52942bcc3ec26f2e196fe) - Update RSS feed. (Feb 11)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/3d4efdc748047cb396c3a167e051593636e1c622) - fix: remove Volta PATH that was overriding fnm node version switching (Feb 09)
 - 💻 [tools](https://github.com/program247365/tools/commit/4f3084e7bf335dc3933b00269e618574b8af572c) - Merge pull request #2 from program247365/vercel/react-server-components-cve-vu-enkvoa (Dec 16)
 - 💻 [slack-emojis](https://github.com/program247365/slack-emojis/commit/79cf94d817d77384db0cef1dcf81c2c91d6377ca) - fix: Check for dupes in script. (Dec 10)
@@ -207,5 +204,5 @@ Late night coding session?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: February 10, 2026 at 07:14 PM EST*
+*Last updated: February 11, 2026 at 01:22 AM EST*
 <!-- last_updated ends -->
