@@ -86,10 +86,8 @@ Late night coding session?
 
 ## 🎯 Current Focus
 
-- 🔭 Working on data pipelines and content management systems at Yahoo!
+- 🤖 Building AI agents
 - 🌱 Deep diving into AI integration and prompt engineering
-- 👯 Looking to collaborate on Rust projects and developer tools
-- 💬 Ask me about React performance optimization, AWS architecture, or building developer tools
 
 ## 🚀 Featured Projects
 
