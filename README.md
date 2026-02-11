@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you had a productive day!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you had a productive day!
 <br>
 
 - **Total Stars Earned:** 175 ⭐
-- **Total Commits (Public):** 158669 
+- **Total Commits (Public):** 158670 
 - **Followers:** 128 
 - **Following:** 257
 - **Public Repositories:** 67
@@ -128,13 +128,13 @@ Hope you had a productive day!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [With the help of Claude code, I’ve been able to ma...](https://kbr.sh/note/8/#atom-everything) - Feb 10, 2026
 - 📝 [Bun is joining Anthropic](https://kbr.sh/blogmark/2025/Dec/2/bun-is-joining-anthropic/#atom-everything) - Dec 02, 2025
 - 📝 [We had a breakthrough in AI with transformers.
 
 ...](https://kbr.sh/note/5/#atom-everything) - Nov 01, 2025
 - 📝 [Started reading "The Scaling Era: An Oral History ...](https://kbr.sh/note/4/#atom-everything) - Oct 20, 2025
 - 📝 [From 6/5/17 in one of my notebooks I wrote down th...](https://kbr.sh/note/3/#atom-everything) - Oct 20, 2025
-- 📝 [Magical Thinking is the belief that your thoughts ...](https://kbr.sh/note/2/#atom-everything) - Oct 18, 2025
 
 <!-- recent_blog_posts ends -->
 
@@ -148,7 +148,7 @@ Hope you had a productive day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/524461fccc189f90f5416766d22f2df7b975cc0a) - Update README with latest content (Feb 10)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/4d201c540d24ec2fe97cb7e60fe0b73645b79a5f) - Update README with latest content (Feb 10)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/108fe37e30422b155abd477873182066ddade78b) - Update RSS feed. (Feb 10)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/3d4efdc748047cb396c3a167e051593636e1c622) - fix: remove Volta PATH that was overriding fnm node version switching (Feb 09)
 - 💻 [tools](https://github.com/program247365/tools/commit/4f3084e7bf335dc3933b00269e618574b8af572c) - Merge pull request #2 from program247365/vercel/react-server-components-cve-vu-enkvoa (Dec 16)
@@ -206,5 +206,5 @@ Hope you had a productive day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: February 10, 2026 at 01:20 PM EST*
+*Last updated: February 10, 2026 at 07:14 PM EST*
 <!-- last_updated ends -->
