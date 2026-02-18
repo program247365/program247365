@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good evening!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Good evening!
 <br>
 
 - **Total Stars Earned:** 175 ⭐
-- **Total Commits (Public):** 158707 
+- **Total Commits (Public):** 158708 
 - **Followers:** 128 
 - **Following:** 257
 - **Public Repositories:** 67
@@ -128,11 +128,11 @@ Good evening!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Is the craft dead?](https://kbr.sh/blogmark/2026/Feb/17/is-the-craft-dead/#atom-everything) - Feb 17, 2026
 - 📝 [OpenClaw Acquired by OpenAI](https://kbr.sh/blogmark/2026/Feb/16/openaclaw-acquired-by-openai/#atom-everything) - Feb 16, 2026
 - 📝 [OpenClaw](https://kbr.sh/blogmark/2026/Feb/10/openclaw/#atom-everything) - Feb 11, 2026
 - 📝 [The Adolescence of Technology](https://kbr.sh/blogmark/2026/Feb/10/the-adolescence-of-technology/#atom-everything) - Feb 11, 2026
 - 📝 [teleporting into the future and robbing yourself of retirement projects](https://kbr.sh/blogmark/2026/Feb/10/teleporting-into-the-future-and-robbing-yourself-of-retirement-p/#atom-everything) - Feb 11, 2026
-- 📝 [Code like a surgeon](https://kbr.sh/blogmark/2026/Feb/10/code-like-a-surgeon/#atom-everything) - Feb 11, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -146,7 +146,7 @@ Good evening!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/e6809009b48e326ba2d65978573922af264fdc21) - Update README with latest content (Feb 17)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/55279d1fb01ed65fd66ee844a2c3e956a3898974) - Update README with latest content (Feb 17)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/8a9d61d41045a2f5b4d66d1b4f9216cb1d229040) - Update RSS feed. (Feb 17)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/3c5e7a53f1603b32c6ce99d57e391d2ed4f52ba1) - feat: git-all script for multi repo management (lightweight) (Feb 12)
 - 💻 [tools](https://github.com/program247365/tools/commit/4f3084e7bf335dc3933b00269e618574b8af572c) - Merge pull request #2 from program247365/vercel/react-server-components-cve-vu-enkvoa (Dec 16)
@@ -204,5 +204,5 @@ Good evening!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: February 17, 2026 at 01:17 PM EST*
+*Last updated: February 17, 2026 at 07:11 PM EST*
 <!-- last_updated ends -->
