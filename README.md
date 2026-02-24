@@ -16,9 +16,9 @@ Good afternoon!
 
 ## 👨‍💻 About Me
 
-> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
+> Engineer with 20+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
 
-🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
+🚀 Staff Software Dev Engineer at **Supernormal Technologies!** working on the Agent Experience team.
 
 🏡 Based in Buffalo, NY
 
