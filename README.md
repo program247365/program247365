@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good afternoon!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -16,9 +16,9 @@ Good afternoon!
 
 ## 👨‍💻 About Me
 
-> Engineer with 20+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
+> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
 
-🚀 Staff Software Dev Engineer at **Supernormal Technologies!** working on the Agent Experience team.
+🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
 
 🏡 Based in Buffalo, NY
 
@@ -67,7 +67,7 @@ Good afternoon!
 <br>
 
 - **Total Stars Earned:** 176 ⭐
-- **Total Commits (Public):** 158744 
+- **Total Commits (Public):** 158746 
 - **Followers:** 128 
 - **Following:** 257
 - **Public Repositories:** 67
@@ -77,7 +77,7 @@ Good afternoon!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 37 total (5.3 per day)
+- **Commits:** 38 total (5.4 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -146,7 +146,7 @@ Good afternoon!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/8e83726bff661b1e1f6805105f3c6e30d3a8da82) - Update README with latest content (Feb 24)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/3e98fd1f6296ed6037ddbe7d2c94c1b3a41f290f) - Update professional experience and current position (Feb 24)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/94982e3bc54b5e44e9525c9b1e73b8a388281a08) - Update RSS feed. (Feb 24)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/14c388860bbaab9723e1460b7c8e73b5dc221b3f) - feat: print worktree directory path after gwt creates worktrees (Feb 18)
 - 💻 [tools](https://github.com/program247365/tools/commit/4f3084e7bf335dc3933b00269e618574b8af572c) - Merge pull request #2 from program247365/vercel/react-server-components-cve-vu-enkvoa (Dec 16)
@@ -204,5 +204,5 @@ Good afternoon!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: February 24, 2026 at 07:11 AM EST*
+*Last updated: February 24, 2026 at 01:18 PM EST*
 <!-- last_updated ends -->
