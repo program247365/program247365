@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Burning the midnight oil?
+Rise and shine!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Burning the midnight oil?
 <br>
 
 - **Total Stars Earned:** 176 ⭐
-- **Total Commits (Public):** 158759 
+- **Total Commits (Public):** 158770 
 - **Followers:** 128 
 - **Following:** 257
 - **Public Repositories:** 67
@@ -77,7 +77,7 @@ Burning the midnight oil?
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 42 total (6.0 per day)
+- **Commits:** 52 total (7.4 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -146,9 +146,9 @@ Burning the midnight oil?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/8f794098eb2274d94eb6327411f4ca11af266c15) - Update README with latest content (Feb 25)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/e503a251ec22426705706bf901e64bd9732b5ad4) - feat(claude): merge statusLine into ~/.claude/settings.json in install.sh (Feb 25)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/83934df5456aa3f3f8241d50ba42d62531d7ce3f) - Update RSS feed. (Feb 25)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/136fe005e0cf8cd7ddb9b6ac8263f31721a2154b) - fix(hooks): use grep instead of case for multiline command matching (Feb 26)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/9ee38976086f4f3301a7c113dc4a9e8881d506d5) - Update RSS feed. (Feb 26)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/abcab11015f8512bdd915a245d6f5b251aca9e18) - Update README with latest content (Feb 26)
 - 💻 [tools](https://github.com/program247365/tools/commit/4f3084e7bf335dc3933b00269e618574b8af572c) - Merge pull request #2 from program247365/vercel/react-server-components-cve-vu-enkvoa (Dec 16)
 - 💻 [slack-emojis](https://github.com/program247365/slack-emojis/commit/79cf94d817d77384db0cef1dcf81c2c91d6377ca) - fix: Check for dupes in script. (Dec 10)
 
@@ -204,5 +204,5 @@ Burning the midnight oil?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: February 25, 2026 at 07:13 PM EST*
+*Last updated: February 26, 2026 at 01:20 AM EST*
 <!-- last_updated ends -->
