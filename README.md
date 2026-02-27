@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Late night coding session?
+Good morning!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Late night coding session?
 <br>
 
 - **Total Stars Earned:** 176 ⭐
-- **Total Commits (Public):** 158774 
+- **Total Commits (Public):** 158776 
 - **Followers:** 127 
 - **Following:** 257
 - **Public Repositories:** 67
@@ -77,7 +77,7 @@ Late night coding session?
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 52 total (7.4 per day)
+- **Commits:** 53 total (7.6 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Late night coding session?
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Karpathy On How Much Software Engineering Has Changed](https://kbr.sh/blogmark/2026/Feb/26/karpathy-hard-to-communicate-how-much-programming-has-changed/#atom-everything) - Feb 27, 2026
+- 📝 [SOFTWARE_ENGINEERING.md](https://kbr.sh/blogmark/2026/Feb/26/software-engineering-md/#atom-everything) - Feb 27, 2026
 - 📝 [Is the craft dead?](https://kbr.sh/blogmark/2026/Feb/17/is-the-craft-dead/#atom-everything) - Feb 17, 2026
 - 📝 [OpenClaw Acquired by OpenAI](https://kbr.sh/blogmark/2026/Feb/16/openaclaw-acquired-by-openai/#atom-everything) - Feb 16, 2026
 - 📝 [OpenClaw](https://kbr.sh/blogmark/2026/Feb/10/openclaw/#atom-everything) - Feb 11, 2026
-- 📝 [The Adolescence of Technology](https://kbr.sh/blogmark/2026/Feb/10/the-adolescence-of-technology/#atom-everything) - Feb 11, 2026
-- 📝 [teleporting into the future and robbing yourself of retirement projects](https://kbr.sh/blogmark/2026/Feb/10/teleporting-into-the-future-and-robbing-yourself-of-retirement-p/#atom-everything) - Feb 11, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -146,9 +146,9 @@ Late night coding session?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/e1316f8b7d3f6d318b3d5e4223f44416ec695aa9) - Update README with latest content (Feb 26)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/ed85373a6e634d7a33992a1c722769983f13b7c3) - Update RSS feed. (Feb 27)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/9b86591ac7f097e00d828ac2d84c0a03a39de44a) - Update README with latest content (Feb 27)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/cc57de81bf2ade17e6c6858a4e1c87f8420e0772) - fix(claude): adopt existing config into dotfiles instead of backing up (Feb 26)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/9ee38976086f4f3301a7c113dc4a9e8881d506d5) - Update RSS feed. (Feb 26)
 - 💻 [tools](https://github.com/program247365/tools/commit/4f3084e7bf335dc3933b00269e618574b8af572c) - Merge pull request #2 from program247365/vercel/react-server-components-cve-vu-enkvoa (Dec 16)
 - 💻 [slack-emojis](https://github.com/program247365/slack-emojis/commit/79cf94d817d77384db0cef1dcf81c2c91d6377ca) - fix: Check for dupes in script. (Dec 10)
 
@@ -204,5 +204,5 @@ Late night coding session?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: February 26, 2026 at 07:11 PM EST*
+*Last updated: February 27, 2026 at 01:16 AM EST*
 <!-- last_updated ends -->
