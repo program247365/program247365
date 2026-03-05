@@ -5,7 +5,7 @@ Good morning!
 <!-- greeting ends -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Staff+Software+Engineer;AI+%26+Agent+Systems;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@ Good morning!
 
 🏡 Based in Buffalo, NY
 
-💡 Building scalable web applications, contributing to open source, and exploring the intersection of AI and development
+💡 Building AI agent infrastructure and LLM-powered products — sandbox execution environments, multi-model pipelines, and AI-native developer tooling
 
 🦀 Rust enthusiast - check out my CLI tools like [hackertuah](https://github.com/program247365/hackertuah) (Hacker News CLI)
 
@@ -46,7 +46,7 @@ Good morning!
 
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Currently Exploring:** AI/LLMs integration, AI Agents
+**Currently Exploring:** AI agent infrastructure, E2B sandbox execution, multi-model orchestration (Claude, Gemini), Claude Code customization
 
 </details>
 
@@ -58,10 +58,10 @@ Loading stats...
 
 ## 🎯 Current Focus
 
-- 🔭 Working on data pipelines and content management systems at Yahoo!
-- 🌱 Deep diving into AI integration and prompt engineering
-- 👯 Looking to collaborate on Rust projects and developer tools
-- 💬 Ask me about React performance optimization, AWS architecture, or building developer tools
+- 🔭 Building AI agent infrastructure at Supernormal — sandbox execution, multi-model pipelines, and the Agent Experience
+- 🌱 Extending Claude Code with custom skills, hooks, and MCP integrations for team-wide force multiplication
+- 👯 Looking to collaborate on Rust CLI tools, AI tooling, and developer infrastructure
+- 💬 Ask me about AI agent systems, LLM-powered product, TypeScript/Ruby/Rust, or Claude Code customization
 
 ## 🚀 Featured Projects
 
@@ -101,12 +101,19 @@ Loading commits...
 
 ## 💼 Professional Experience Highlights
 
-### Yahoo! - Senior Software Dev Engineer (2023 - Present)
+### Supernormal - Staff Software Engineer, Agent Experience (Nov 2025 - Present)
 
-- ⚛️ Led, planned, and executed React.js 18 upgrade across CMS improving collaboration for 10+ engineers
-- 🏗️ Bootstrapped new CMS frontend using Next.js, Turbo, and Bun with integrated TipTap headless editor
-- 📦 Created end-to-end process for UI Component Design System packaging and NPM distribution via Rollup.js
-- ️☁ Built FastAPI web services that were deployed to AWS Lambda for data processing workloads and web application backends
+- 🤖 Shipped SuperAssistant (AI agent product) from zero to production in 3 weeks across TypeScript, Ruby, and Rust codebases
+- ⚙️ Built and maintained the sandbox agent execution layer: E2B cloud sandboxes for isolated code execution, the core infrastructure enabling AI agents to generate and run code
+- 🎨 Architected the artifact sharing system — documents, spreadsheets, slides, and image galleries with S3 upload, public/private toggle, and short-URL routing
+- 🛠️ Championed Claude Code as a team force multiplier: Figma, Notion, and Linear MCP integrations; custom skills and hooks; reduced spec-to-code cycle time
+
+### Yahoo! - Senior Software Dev Engineer (2023 - 2025)
+
+- 🤖 Collaborated with AI acceleration team to help engineers to use Claude Code for AI-native development across Yahoo! products
+- ⚛️ Led React.js 18 upgrade across CMS for a team of 10+ engineers
+- 🏗️ Bootstrapped new CMS frontend using Next.js, Turbo, and Bun
+- 📦 Created UI Component Design System packaging and NPM distribution pipeline via Rollup.js
 
 ### Previous Roles
 
