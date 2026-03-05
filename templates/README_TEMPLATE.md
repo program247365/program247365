@@ -16,7 +16,7 @@ Good morning!
 
 ## 👨‍💻 About Me
 
-> Senior Full-Stack Engineer with 15+ years building scalable web applications, leading technical teams, and architecting cloud infrastructure across startups to major tech companies
+> Engineer with 20+ years across the full stack, with a focus on AI-native developer tooling: extending Claude Code through custom skills, hooks, and MCP integrations; shipping LLM-powered features in production; and building personal CLI tools in Rust and TypeScript.
 
 🚀 Senior Software Dev Engineer at **Yahoo!** working on the Content Management Team in Home Ecosystem
 
