@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Evening, coder!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,9 +67,9 @@ Evening, coder!
 <br>
 
 - **Total Stars Earned:** 180 ⭐
-- **Total Commits (Public):** 159236 
+- **Total Commits (Public):** 159239 
 - **Followers:** 133 
-- **Following:** 261
+- **Following:** 262
 - **Public Repositories:** 69
 - **Public Gists:** 42
 - **Top Languages:** TypeScript, JavaScript, MDX
@@ -146,8 +146,8 @@ Evening, coder!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/1b26c688358f683885da4106d17cd7c0ac426fb0) - feat(claude): symlink global settings.json and add pnpm permissions (Mar 23)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/1d971270a400edbb896f4830c418a2d9e6bf34da) - Update README with latest content (Mar 23)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/1deb65dded0b3380e10eac88b01b894dfd248f3b) - feat: migrate to mise - https://github.com/jdx/mise (Mar 23)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/e3a67415b9f4c25eec60a8b9a80d94f2c6cd680b) - Update README with latest content (Mar 23)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/ea9977ae0e76bf83108f4bceab467a2f5effba3e) - Update RSS feed. (Mar 23)
 - 💻 [autoresearch](https://github.com/program247365/autoresearch/commit/e6d79c123441a53d91bb8df7adf4db45cf120bf1) - Enhance README with more project context and links (Mar 21)
 - 💻 [qmd](https://github.com/program247365/qmd/commit/403b5ec843c575af0a0943f13688d696c7bedce0) - fix(mcp): make StatusResult path/pattern optional for source-type collections (Mar 05)
@@ -211,5 +211,5 @@ Evening, coder!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: March 23, 2026 at 02:15 PM EST*
+*Last updated: March 23, 2026 at 08:10 PM EST*
 <!-- last_updated ends -->
