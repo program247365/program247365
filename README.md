@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Morning, fellow developer!
+Good afternoon!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Morning, fellow developer!
 <br>
 
 - **Total Stars Earned:** 180 ⭐
-- **Total Commits (Public):** 159246 
+- **Total Commits (Public):** 159247 
 - **Followers:** 133 
 - **Following:** 262
 - **Public Repositories:** 69
@@ -128,11 +128,11 @@ Morning, fellow developer!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Björn Andersson - It's beginning to crumble  - The first steps of my breadcrumb tool](https://kbr.sh/blogmark/2026/Mar/25/bjorn-andersson-its-beginning-to-crumble/#atom-everything) - Mar 25, 2026
 - 📝 [Karpathy On How Much Software Engineering Has Changed](https://kbr.sh/blogmark/2026/Feb/26/karpathy-hard-to-communicate-how-much-programming-has-changed/#atom-everything) - Feb 27, 2026
 - 📝 [SOFTWARE_ENGINEERING.md](https://kbr.sh/blogmark/2026/Feb/26/software-engineering-md/#atom-everything) - Feb 27, 2026
 - 📝 [Is the craft dead?](https://kbr.sh/blogmark/2026/Feb/17/is-the-craft-dead/#atom-everything) - Feb 17, 2026
 - 📝 [OpenClaw Acquired by OpenAI](https://kbr.sh/blogmark/2026/Feb/16/openaclaw-acquired-by-openai/#atom-everything) - Feb 16, 2026
-- 📝 [OpenClaw](https://kbr.sh/blogmark/2026/Feb/10/openclaw/#atom-everything) - Feb 11, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -146,8 +146,8 @@ Morning, fellow developer!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [program247365](https://github.com/program247365/program247365/commit/0051517113cd820f2f37fcc79a9d27e588d3adf6) - Update README with latest content (Mar 25)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/8e98269efc6ecef754000be82b6d284de2c0c399) - Update RSS feed. (Mar 25)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/136d60c84549ff744b7320e7d2e33c6ff89850f5) - Update README with latest content (Mar 25)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/1deb65dded0b3380e10eac88b01b894dfd248f3b) - feat: migrate to mise - https://github.com/jdx/mise (Mar 23)
 - 💻 [autoresearch](https://github.com/program247365/autoresearch/commit/e6d79c123441a53d91bb8df7adf4db45cf120bf1) - Enhance README with more project context and links (Mar 21)
 - 💻 [qmd](https://github.com/program247365/qmd/commit/403b5ec843c575af0a0943f13688d696c7bedce0) - fix(mcp): make StatusResult path/pattern optional for source-type collections (Mar 05)
@@ -211,5 +211,5 @@ Morning, fellow developer!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: March 25, 2026 at 02:21 AM EST*
+*Last updated: March 25, 2026 at 08:12 AM EST*
 <!-- last_updated ends -->
