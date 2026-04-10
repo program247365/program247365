@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good afternoon!
+Hope you had a productive day!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Good afternoon!
 <br>
 
 - **Total Stars Earned:** 181 ⭐
-- **Total Commits (Public):** 159636 
+- **Total Commits (Public):** 159644 
 - **Followers:** 133 
 - **Following:** 265
 - **Public Repositories:** 73
@@ -77,7 +77,7 @@ Good afternoon!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 92 total (13.1 per day)
+- **Commits:** 99 total (14.1 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,17 +140,18 @@ Good afternoon!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
+- 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.3.0) - v0.3.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.1.0) - v0.1.0
 
 <!-- recent_releases ends -->
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/9c41efbcca136737af1dce90fcea64d1646cde4f) - Update README with latest content (Apr 10)
+- 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/774646ee92564e1faab06c70dfcfc5497958b432) - docs: add Homebrew install as primary method, remove duplicate install sections (Apr 10)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/5ddff9734e9f5900da7702573be093fdc603fae8) - Update hackertuah to v0.3.0 (Apr 10)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/dd7e42aa227e9dc7150cfb93f29e501536715a9d) - Update README with latest content (Apr 10)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/d265f3835f18c62c22e61684a816a38e43680018) - Update RSS feed. (Apr 10)
-- 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/8c06fed9f4f9f48432b041064fc4fd22753b6864) - refactor: split main.rs into types, hn_api, and ui modules (Apr 09)
 - 💻 [slack-emojis](https://github.com/program247365/slack-emojis/commit/a63e6665307bde3548e1913fbafee7070dc599f6) - chore: Update emoji table in README (Apr 09)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/14386ca74a50552bef4f7e904ab81cf472ee387c) - feat(bcli): build from source at latest upstream tag (Apr 09)
 
 <!-- recent_commits ends -->
 
@@ -211,5 +212,5 @@ Good afternoon!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: April 10, 2026 at 08:14 AM EST*
+*Last updated: April 10, 2026 at 02:15 PM EST*
 <!-- last_updated ends -->
