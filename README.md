@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you're having a great day!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you're having a great day!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 159832 
+- **Total Commits (Public):** 159836 
 - **Followers:** 135 
 - **Following:** 273
 - **Public Repositories:** 73
@@ -77,7 +77,7 @@ Hope you're having a great day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 68 total (9.7 per day)
+- **Commits:** 70 total (10.0 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Hope you're having a great day!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [For thirty years I programmed with Phish on, every day](https://kbr.sh/blogmark/2026/May/4/for-thirty-years-i-programmed-with-phish-on-every-day/#atom-everything) - May 04, 2026
 - 📝 [autoresearch](https://kbr.sh/blogmark/2026/Mar/30/karpathy-autoresearch/#atom-everything) - Mar 30, 2026
 - 📝 [Björn Andersson - It's beginning to crumble  - The first steps of my breadcrumb tool](https://kbr.sh/blogmark/2026/Mar/25/bjorn-andersson-its-beginning-to-crumble/#atom-everything) - Mar 25, 2026
 - 📝 [Karpathy On How Much Software Engineering Has Changed](https://kbr.sh/blogmark/2026/Feb/26/karpathy-hard-to-communicate-how-much-programming-has-changed/#atom-everything) - Feb 27, 2026
 - 📝 [SOFTWARE_ENGINEERING.md](https://kbr.sh/blogmark/2026/Feb/26/software-engineering-md/#atom-everything) - Feb 27, 2026
-- 📝 [Is the craft dead?](https://kbr.sh/blogmark/2026/Feb/17/is-the-craft-dead/#atom-everything) - Feb 17, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -147,11 +147,11 @@ Hope you're having a great day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/48a498270e827317a5ee2fca558fbd39a13f8c5d) - Update README with latest content (May 04)
+- 💻 [gif](https://github.com/program247365/gif/commit/25a022635064fd752abe1bcac978c1bed3820eb4) - Add gif: no-way-shocked.gif (May 04)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/6a753cefd27ab4f28e4aa2ce06e896c3742b2e5e) - feat(workday-skill): Update workday skill to use latest bearcli (May 04)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/8f1af32e81eae1d67def25cbc9f9d960d6912de1) - Update README with latest content (May 04)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/c0a56360f2723f44662c0816aecb104c31af0c38) - Update RSS feed. (May 04)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/40b266fe197cb235f75654afca41e9e03497d07b) - Update looper to v0.5.4 (May 04)
-- 💻 [looper](https://github.com/program247365/looper/commit/2469c02ca6b401047de66b8a7d314ca26ec4f42b) - Bump version to v0.5.4 (May 04)
-- 💻 [gif](https://github.com/program247365/gif/commit/aa39ee89804849f5479a48efe686d2109a9bf3e0) - Add gif: alone-milhouse.gif (May 01)
 
 <!-- recent_commits ends -->
 
@@ -212,5 +212,5 @@ Hope you're having a great day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: May 04, 2026 at 08:29 AM EST*
+*Last updated: May 04, 2026 at 02:29 PM EST*
 <!-- last_updated ends -->
