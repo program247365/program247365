@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you had a productive day!
+Hello, night owl!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you had a productive day!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 159889 
+- **Total Commits (Public):** 159892 
 - **Followers:** 137 
 - **Following:** 275
 - **Public Repositories:** 74
@@ -128,11 +128,11 @@ Hope you had a productive day!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Vibed a site around my notes/pics on my trip to th...](https://kbr.sh/note/9/#atom-everything) - May 11, 2026
 - 📝 [For thirty years I programmed with Phish on, every day](https://kbr.sh/blogmark/2026/May/4/for-thirty-years-i-programmed-with-phish-on-every-day/#atom-everything) - May 04, 2026
 - 📝 [autoresearch](https://kbr.sh/blogmark/2026/Mar/30/karpathy-autoresearch/#atom-everything) - Mar 30, 2026
 - 📝 [Björn Andersson - It's beginning to crumble  - The first steps of my breadcrumb tool](https://kbr.sh/blogmark/2026/Mar/25/bjorn-andersson-its-beginning-to-crumble/#atom-everything) - Mar 25, 2026
 - 📝 [Karpathy On How Much Software Engineering Has Changed](https://kbr.sh/blogmark/2026/Feb/26/karpathy-hard-to-communicate-how-much-programming-has-changed/#atom-everything) - Feb 27, 2026
-- 📝 [SOFTWARE_ENGINEERING.md](https://kbr.sh/blogmark/2026/Feb/26/software-engineering-md/#atom-everything) - Feb 27, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -140,17 +140,17 @@ Hope you had a productive day!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.5.5) - v0.5.5
+- 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.5.6) - v0.5.6
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.3.0) - v0.3.0
 
 <!-- recent_releases ends -->
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/4e595611b6ea047d5311dace53afe84d51e19f1e) - Update looper to v0.5.6 (May 11)
+- 💻 [looper](https://github.com/program247365/looper/commit/1da0a44a6c066351f82c02306008ddc04584f31c) - fix(storage): migrate history from legacy iCloud path on upgrade (May 11)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/5f6e656de71444a81f1d76550631a36d1f948119) - Update README with latest content (May 11)
 - 💻 [code-with-claude-2026-sf-recap](https://github.com/program247365/code-with-claude-2026-sf-recap/commit/7e0d58326f44dc06505820206a126b5d6609a7a3) - Add GoatCounter page counter (May 11)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/228ddd1103c9b1ebb2a144fa5d0de7da942cc9c1) - Update looper to v0.5.5 (May 11)
-- 💻 [looper](https://github.com/program247365/looper/commit/ba3fc42bacc32e2d98b510a4b239d55b46081734) - Bump version to v0.5.5 (May 11)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/51d7a0f0f481af8428fc5768ecd983f02ddba04d) - Update README with latest content (May 11)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/6f3fb5f162efdd5f2f6bd6bc7ce7651efc73c849) - Update RSS feed. (May 11)
 
 <!-- recent_commits ends -->
@@ -212,5 +212,5 @@ Hope you had a productive day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: May 11, 2026 at 02:35 PM EST*
+*Last updated: May 11, 2026 at 08:24 PM EST*
 <!-- last_updated ends -->
