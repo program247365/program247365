@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Afternoon vibes!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,9 +67,9 @@ Afternoon vibes!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 159913 
+- **Total Commits (Public):** 159917 
 - **Followers:** 137 
-- **Following:** 276
+- **Following:** 277
 - **Public Repositories:** 74
 - **Public Gists:** 43
 - **Top Languages:** TypeScript, JavaScript, MDX
@@ -77,7 +77,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 59 total (8.4 per day)
+- **Commits:** 61 total (8.7 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Afternoon vibes!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Rewrite Bun in Rust](https://kbr.sh/blogmark/2026/May/14/bun-port-to-rust-done-with-agents/#atom-everything) - May 14, 2026
 - 📝 [Vibed a site around my notes/pics on my trip to th...](https://kbr.sh/note/9/#atom-everything) - May 11, 2026
 - 📝 [For thirty years I programmed with Phish on, every day](https://kbr.sh/blogmark/2026/May/4/for-thirty-years-i-programmed-with-phish-on-every-day/#atom-everything) - May 04, 2026
 - 📝 [autoresearch](https://kbr.sh/blogmark/2026/Mar/30/karpathy-autoresearch/#atom-everything) - Mar 30, 2026
 - 📝 [Björn Andersson - It's beginning to crumble  - The first steps of my breadcrumb tool](https://kbr.sh/blogmark/2026/Mar/25/bjorn-andersson-its-beginning-to-crumble/#atom-everything) - Mar 25, 2026
-- 📝 [Karpathy On How Much Software Engineering Has Changed](https://kbr.sh/blogmark/2026/Feb/26/karpathy-hard-to-communicate-how-much-programming-has-changed/#atom-everything) - Feb 27, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -140,18 +140,18 @@ Afternoon vibes!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.5.6) - v0.5.6
+- 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.6.0) - v0.6.0
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.3.0) - v0.3.0
 
 <!-- recent_releases ends -->
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/37097b5fcd6a048be262030ffe1f0002baa372cd) - Update README with latest content (May 14)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/687d14b3236313e8673cd60ac0e9739010380bdf) - Update looper to v0.6.0 (May 14)
+- 💻 [looper](https://github.com/program247365/looper/commit/066d0eb62bc93968fa3620ec7f7f17a950e348e3) - Bump version to v0.6.0 (May 14)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/d2e7476524d1247fefcc492800bb2c997ea24bcd) - Update README with latest content (May 14)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/870528272200222698dd3c8920f5bbf1c0f35cd3) - Update RSS feed. (May 14)
 - 💻 [code-with-claude-2026-sf-recap](https://github.com/program247365/code-with-claude-2026-sf-recap/commit/1f45286215a68bc33d1df398e525c1d3943a55b0) - docs: README time. (May 13)
-- 💻 [slack-emojis](https://github.com/program247365/slack-emojis/commit/512085922f667054f6208414c9b3f72a50747445) - chore: Update emoji table in README (May 13)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/8bd7f264db0a96ddc98937ada2c6243ef1f61b37) - fix: Better /visual-explainer styling perhaps. (May 12)
 
 <!-- recent_commits ends -->
 
@@ -212,5 +212,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: May 14, 2026 at 08:33 AM EST*
+*Last updated: May 14, 2026 at 02:34 PM EST*
 <!-- last_updated ends -->
