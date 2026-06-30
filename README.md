@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good evening!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Good evening!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 161426 
+- **Total Commits (Public):** 161427 
 - **Followers:** 144 
 - **Following:** 277
 - **Public Repositories:** 75
@@ -128,11 +128,11 @@ Good evening!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Looper](https://kbr.sh/post/2026/Jun/29/looper/#atom-everything) - Jun 29, 2026
 - 📝 [Rewrite Bun in Rust](https://kbr.sh/blogmark/2026/May/14/bun-port-to-rust-done-with-agents/#atom-everything) - May 14, 2026
 - 📝 [Vibed a site around my notes/pics on my trip to th...](https://kbr.sh/note/9/#atom-everything) - May 11, 2026
 - 📝 [For thirty years I programmed with Phish on, every day](https://kbr.sh/blogmark/2026/May/4/for-thirty-years-i-programmed-with-phish-on-every-day/#atom-everything) - May 04, 2026
 - 📝 [autoresearch](https://kbr.sh/blogmark/2026/Mar/30/karpathy-autoresearch/#atom-everything) - Mar 30, 2026
-- 📝 [Björn Andersson - It's beginning to crumble  - The first steps of my breadcrumb tool](https://kbr.sh/blogmark/2026/Mar/25/bjorn-andersson-its-beginning-to-crumble/#atom-everything) - Mar 25, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -148,7 +148,7 @@ Good evening!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/918779c444f62080355e1a1c2e58d38f4057aa8e) - Update README with latest content (Jun 29)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/9f360f3d6d2eac958c9581609c416434db494c53) - Update README with latest content (Jun 29)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/2a8357aa547a6b75aeae5fc0fc22fd34b362efca) - Update RSS feed. (Jun 29)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/ab241e23c81711029c074f050b2dda7a4b4ce1e7) - Update looper to v0.10.0 (Jun 26)
 - 💻 [looper](https://github.com/program247365/looper/commit/0920e6aa2ba0a0073030348a7ef64928d748abf1) - Bump version to v0.10.0 (Jun 26)
@@ -213,5 +213,5 @@ Good evening!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: June 29, 2026 at 02:39 PM EST*
+*Last updated: June 29, 2026 at 08:29 PM EST*
 <!-- last_updated ends -->
