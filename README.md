@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Afternoon vibes!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,8 +67,8 @@ Afternoon vibes!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 161572 
-- **Followers:** 145 
+- **Total Commits (Public):** 161589 
+- **Followers:** 146 
 - **Following:** 283
 - **Public Repositories:** 75
 - **Public Gists:** 43
@@ -77,7 +77,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 45 total (6.4 per day)
+- **Commits:** 60 total (8.6 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,19 +140,19 @@ Afternoon vibes!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
+- 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.4.0) - v0.4.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.13.3) - v0.13.3
-- 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.3.0) - v0.3.0
 - 🚀 [react-google-login](https://github.com/SupernormalCo/react-google-login/releases/tag/v5.2.2) - v5.2.2
 
 <!-- recent_releases ends -->
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/caa80df6c7fcfcffad02881f191fe121dddb2a79) - Update README with latest content (Jul 20)
+- 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/abc53beeabc2a825fb1d2a17d137a37d0b444238) - fix(make): resolve release tag after cog bump in publish target (Jul 20)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/4e0e245d375665dcc230561eaa36392cc8b6f66b) - Update hackertuah to v0.4.0 (Jul 20)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/2296b3e41ef2a75d72d46ff80ea92847ac4f0b0b) - chore(claude): dedupe CLAUDE.md rules now covered by rules/ files (Jul 20)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/66d4db05b694491550bbdeea1ddfe691111e43cd) - Update README with latest content (Jul 20)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/01f0352fea6a25afca0433944899c723282aa612) - Update RSS feed. (Jul 20)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/69c62efe7a7531b1c9485d93e5e4fe74e36a14ad) - chore(pi): set dark theme, bump changelog version (Jul 17)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/ea08ab650f69d46a3724ecc194e17d626dbd7246) - Update looper to v0.13.3 (Jul 14)
-- 💻 [looper](https://github.com/program247365/looper/commit/b13ae941db39d2f6e893ab0b534a9a82dd8f6ead) - Bump version to v0.13.3 (Jul 14)
 
 <!-- recent_commits ends -->
 
@@ -213,5 +213,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: July 20, 2026 at 09:47 AM EST*
+*Last updated: July 20, 2026 at 03:25 PM EST*
 <!-- last_updated ends -->
