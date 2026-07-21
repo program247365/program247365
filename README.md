@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Evening, coder!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Evening, coder!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 161589 
+- **Total Commits (Public):** 161594 
 - **Followers:** 146 
 - **Following:** 283
 - **Public Repositories:** 75
@@ -77,7 +77,7 @@ Evening, coder!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 60 total (8.6 per day)
+- **Commits:** 64 total (9.1 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,7 +140,7 @@ Evening, coder!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.4.0) - v0.4.0
+- 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.13.3) - v0.13.3
 - 🚀 [react-google-login](https://github.com/SupernormalCo/react-google-login/releases/tag/v5.2.2) - v5.2.2
 
@@ -148,10 +148,10 @@ Evening, coder!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/abc53beeabc2a825fb1d2a17d137a37d0b444238) - fix(make): resolve release tag after cog bump in publish target (Jul 20)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/4e0e245d375665dcc230561eaa36392cc8b6f66b) - Update hackertuah to v0.4.0 (Jul 20)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/2296b3e41ef2a75d72d46ff80ea92847ac4f0b0b) - chore(claude): dedupe CLAUDE.md rules now covered by rules/ files (Jul 20)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/66d4db05b694491550bbdeea1ddfe691111e43cd) - Update README with latest content (Jul 20)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/6b01430186f3678135604bb07659bbde045cad13) - Update hackertuah to v0.5.0 (Jul 20)
+- 💻 [hackertuah](https://github.com/program247365/hackertuah/commit/c59b195668653c94a7b36905fb515f3b93d2e4de) - chore(version): v0.5.0 (Jul 20)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/7ce2492998be4cbdda7cbeff4e6422eea1b2f71d) - Update README with latest content (Jul 20)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/ba35df4ed109e259db713740300c12817b8b9dd7) - chore(zsh): add self-aliases so kit indexes kpr and spark (Jul 20)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/01f0352fea6a25afca0433944899c723282aa612) - Update RSS feed. (Jul 20)
 
 <!-- recent_commits ends -->
@@ -213,5 +213,5 @@ Evening, coder!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: July 20, 2026 at 03:25 PM EST*
+*Last updated: July 20, 2026 at 09:27 PM EST*
 <!-- last_updated ends -->
