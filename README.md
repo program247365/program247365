@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hello, night owl!
+Rise and shine!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,9 +67,9 @@ Hello, night owl!
 <br>
 
 - **Total Stars Earned:** 182 ⭐
-- **Total Commits (Public):** 161711 
+- **Total Commits (Public):** 161713 
 - **Followers:** 144 
-- **Following:** 284
+- **Following:** 285
 - **Public Repositories:** 75
 - **Public Gists:** 43
 - **Top Languages:** TypeScript, JavaScript, MDX
@@ -128,11 +128,11 @@ Hello, night owl!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Typing Looks Like Typing](https://kbr.sh/post/2026/Aug/4/typing-looks-like-typing/#atom-everything) - Aug 05, 2026
 - 📝 [Looper](https://kbr.sh/post/2026/Jun/29/looper/#atom-everything) - Jun 29, 2026
 - 📝 [Rewrite Bun in Rust](https://kbr.sh/blogmark/2026/May/14/bun-port-to-rust-done-with-agents/#atom-everything) - May 14, 2026
 - 📝 [Vibed a site around my notes/pics on my trip to th...](https://kbr.sh/note/9/#atom-everything) - May 11, 2026
 - 📝 [For thirty years I programmed with Phish on, every day](https://kbr.sh/blogmark/2026/May/4/for-thirty-years-i-programmed-with-phish-on-every-day/#atom-everything) - May 04, 2026
-- 📝 [autoresearch](https://kbr.sh/blogmark/2026/Mar/30/karpathy-autoresearch/#atom-everything) - Mar 30, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -148,11 +148,11 @@ Hello, night owl!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/10f86070a0c91428699876de09dbb4b4fb9e45ab) - Update RSS feed. (Aug 05)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/fe1f3f7ca2ade4fdf2a40e1b1107e30e8b85ec16) - Update README with latest content (Aug 05)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/0006e64fef844af4b8cbeb6f2f68b56f0fd6eba9) - Update looper to v0.14.2 (Aug 04)
 - 💻 [looper](https://github.com/program247365/looper/commit/ce41ed9633305abb557dfc491e130ae998e777bc) - Bump version to v0.14.2 (Aug 04)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/1e3c3ada356d39888e3d05e6fe6ea1363aa52287) - Update README with latest content (Aug 04)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/a2114fad98bd483056167afabd2fe1974c467ff6) - docs(agents): search rule intro names reminders as todos (Aug 04)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/2781c2ff1538517ad8f3f2a4223d17719703b09f) - Update RSS feed. (Aug 04)
 
 <!-- recent_commits ends -->
 
@@ -213,5 +213,5 @@ Hello, night owl!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: August 04, 2026 at 09:27 PM EST*
+*Last updated: August 05, 2026 at 04:17 AM EST*
 <!-- last_updated ends -->
