@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you had a productive day!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Hope you had a productive day!
 <br>
 
 - **Total Stars Earned:** 184 ⭐
-- **Total Commits (Public):** 161811 
+- **Total Commits (Public):** 161818 
 - **Followers:** 144 
 - **Following:** 286
 - **Public Repositories:** 75
@@ -77,7 +77,7 @@ Hope you had a productive day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 62 total (8.9 per day)
+- **Commits:** 52 total (7.4 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -148,11 +148,11 @@ Hope you had a productive day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/886571099b1e514233d577aabe84641cacab1df5) - chore(pi): settings drift — pi bumped lastChangelogVersion to 0.84.2 (Aug 18)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/4b72cb62a805ec47705591873f70203ca77e028e) - Update README with latest content (Aug 18)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/c292881465fe0a94ec9bf763fd4d8934554adee9) - fix(zsh): stop duplicating PATH when adding ~/.kevin/bin (Aug 18)
+- 💻 [random-quotes](https://github.com/program247365/random-quotes/commit/d52cfed369cb22d75aab7f4bf28d2996517efa91) - Add --help, --version, and a self-documenting Makefile (Aug 18)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/671ceb07012bf510f7dd148f647b6e7d9149b03a) - Update README with latest content (Aug 18)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/7a75c9dfd293cf49692351f2ae69b183f5f3839c) - Update RSS feed. (Aug 18)
 - 💻 [sideprojects](https://github.com/program247365/sideprojects/commit/19a35ea2ca176aed47526a3a8bef5c0a10bf6725) - Prep Mac App Store submission: entitlements, configs, upload workflow, TODO (Aug 12)
-- 💻 [looper](https://github.com/program247365/looper/commit/36776fc54e4ad22c037b6b4536adb87586f3055b) - docs: note v0.14.3 release in worklog (Aug 11)
 
 <!-- recent_commits ends -->
 
@@ -213,5 +213,5 @@ Hope you had a productive day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: August 18, 2026 at 02:23 PM EST*
+*Last updated: August 18, 2026 at 08:36 PM EST*
 <!-- last_updated ends -->
