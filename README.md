@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good evening!
+Good morning!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,18 +67,18 @@ Good evening!
 <br>
 
 - **Total Stars Earned:** 184 ⭐
-- **Total Commits (Public):** 161860 
+- **Total Commits (Public):** 161864 
 - **Followers:** 146 
 - **Following:** 286
 - **Public Repositories:** 75
 - **Public Gists:** 43
-- **Top Languages:** TypeScript, JavaScript, MDX
+- **Top Languages:** JavaScript, TypeScript, MDX
 
 </details>
 
 ### 📈 This Week's Coding Stats
 - **Commits:** 36 total (5.1 per day)
-- **Most Active Language:** TypeScript
+- **Most Active Language:** JavaScript
 
 <!-- github_stats ends -->
 
@@ -148,9 +148,9 @@ Good evening!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/ca6fd5b716ee29140a8a37127942c0ddd2e2a955) - Update README with latest content (Aug 26)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/d08b80e361250b68c2e3055abf32eca7579a0cb5) - docs(worklog): 2026-08-24..26 sessions — tweet enrichment, codebase-memory research, impeccable update (Aug 26)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/a112119a2f07996732b4aabdf2f6a0c6808373d2) - Update README with latest content (Aug 26)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/5d082ed300ca6b63b0552ad6e62b7c62918fb745) - Update RSS feed. (Aug 26)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/55637229c892ada9355077586f99c1b1ec6ae0de) - docs(worklog): 2026-08-19 pi scope rename + enabledModels fixes (Aug 19)
 - 💻 [random-quotes](https://github.com/program247365/random-quotes/commit/d52cfed369cb22d75aab7f4bf28d2996517efa91) - Add --help, --version, and a self-documenting Makefile (Aug 18)
 - 💻 [sideprojects](https://github.com/program247365/sideprojects/commit/19a35ea2ca176aed47526a3a8bef5c0a10bf6725) - Prep Mac App Store submission: entitlements, configs, upload workflow, TODO (Aug 12)
 
@@ -213,5 +213,5 @@ Good evening!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: August 26, 2026 at 03:32 PM EST*
+*Last updated: August 27, 2026 at 01:33 AM EST*
 <!-- last_updated ends -->
