@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hope you're having a great day!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,8 +67,8 @@ Hope you're having a great day!
 <br>
 
 - **Total Stars Earned:** 186 ⭐
-- **Total Commits (Public):** 162126 
-- **Followers:** 148 
+- **Total Commits (Public):** 162128 
+- **Followers:** 147 
 - **Following:** 286
 - **Public Repositories:** 75
 - **Public Gists:** 43
@@ -77,7 +77,7 @@ Hope you're having a great day!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 34 total (4.9 per day)
+- **Commits:** 35 total (5.0 per day)
 - **Most Active Language:** JavaScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Hope you're having a great day!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [Cory House on X: "AI makes the optimal team size 1-2 people: 1. A “pirate” that vibe codes quickly 2. An architect that focuses on organization and big picture improvements." / X](https://kbr.sh/blogmark/2026/Oct/12/cory-house-on-x-ai-makes-the-optimal-team-size-1-2-people-1-a-pi/#atom-everything) - Oct 12, 2026
 - 📝 [Typing Looks Like Typing](https://kbr.sh/post/2026/Aug/4/typing-looks-like-typing/#atom-everything) - Aug 05, 2026
 - 📝 [Looper](https://kbr.sh/post/2026/Jun/29/looper/#atom-everything) - Jun 29, 2026
 - 📝 [Rewrite Bun in Rust](https://kbr.sh/blogmark/2026/May/14/bun-port-to-rust-done-with-agents/#atom-everything) - May 14, 2026
 - 📝 [Vibed a site around my notes/pics on my trip to th...](https://kbr.sh/note/9/#atom-everything) - May 11, 2026
-- 📝 [For thirty years I programmed with Phish on, every day](https://kbr.sh/blogmark/2026/May/4/for-thirty-years-i-programmed-with-phish-on-every-day/#atom-everything) - May 04, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -148,9 +148,9 @@ Hope you're having a great day!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/d5337f1e7d9c2535f5a5c9c062ae5566b060aa98) - feat(claude): add ast-grep-codemods skill (Oct 12)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/2d800c4a887462c82fee576a3556bd7258260d14) - Update README with latest content (Oct 12)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/0adff37424d9738d0fa9929233addb0ad920ff0c) - Update RSS feed. (Oct 12)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/2149096b337533a8ed11d8cc9aed8d5e26596523) - Update README with latest content (Oct 12)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/7c268773a9bab7aeca0a077324fd0e9b28583664) - chore(pi): update changelog version to 1.1.0 (Oct 08)
 - 💻 [gif](https://github.com/program247365/gif/commit/25f5900e4bbdccb742a7d886f4e39a4142106dfb) - Add gif: office-space-dune-let-the-spice-flow-thx.gif (Sep 17)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/c3d0b68a00d7ead84e7da6a88a36bdfdc0c76c5a) - Update looper to v0.15.1 (Sep 04)
 
@@ -213,5 +213,5 @@ Hope you're having a great day!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 12, 2026 at 09:48 AM EST*
+*Last updated: October 12, 2026 at 07:57 PM EST*
 <!-- last_updated ends -->
