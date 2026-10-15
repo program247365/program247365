@@ -65,7 +65,7 @@ def get_latest_releases(num=5):
     releases = []
     
     for repo in user.get_repos():
-        if repo.private:
+        if repo.private or repo.owner.login != user.login:
             continue
             
         try:

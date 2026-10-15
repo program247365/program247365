@@ -142,7 +142,6 @@ Evening, coder!
 <!-- recent_releases starts -->
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
-- 🚀 [react-google-login](https://github.com/SupernormalCo/react-google-login/releases/tag/v5.2.2) - v5.2.2
 
 <!-- recent_releases ends -->
 
@@ -155,18 +154,6 @@ Evening, coder!
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/c3d0b68a00d7ead84e7da6a88a36bdfdc0c76c5a) - Update looper to v0.15.1 (Sep 04)
 
 <!-- recent_commits ends -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=program247365&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=program247365&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
 
 ## 💼 Professional Experience Highlights
 
@@ -195,12 +182,6 @@ Evening, coder!
 - 🥉 **2021** - Third Place in ACV Auctions Hackathon
 - 🥉 **2016** - Third Place in Synacor Hackathon  
 - 🏅 **2013** - Engineer of the Year Award
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 ---
 

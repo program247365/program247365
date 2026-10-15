@@ -87,18 +87,6 @@ Loading releases...
 Loading commits...
 <!-- recent_commits ends -->
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=program247365&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=program247365&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
 ## 💼 Professional Experience Highlights
 
 ### Supernormal - Staff Software Engineer, Agent Experience (Nov 2025 - Present)
@@ -126,12 +114,6 @@ Loading commits...
 - 🥉 **2021** - Third Place in ACV Auctions Hackathon
 - 🥉 **2016** - Third Place in Synacor Hackathon  
 - 🏅 **2013** - Engineer of the Year Award
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 ---
 
