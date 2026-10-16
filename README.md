@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Evening, coder!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Evening, coder!
 <br>
 
 - **Total Stars Earned:** 185 ⭐
-- **Total Commits (Public):** 162124 
+- **Total Commits (Public):** 162145 
 - **Followers:** 147 
 - **Following:** 286
 - **Public Repositories:** 74
@@ -77,7 +77,7 @@ Evening, coder!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 39 total (5.6 per day)
+- **Commits:** 57 total (8.1 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -147,8 +147,8 @@ Evening, coder!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/ce20da487a3726c02d87b6848226575eb9aac65f) - Merge feat/landing-page-skill: add the landing skill (Oct 15)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/499daed64412fe59db15160387405423ec778247) - Update README with latest content (Oct 15)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/9a4f83e0da3a65fd66eb939dcb0ad879f80b0c5f) - Limit releases to owned repos and drop broken profile graphics (Oct 15)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/9f563c7be4a3a555302f871a6be25db102b72334) - chore(git): resolve gh credential helper from PATH (Oct 15)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/522a2878c8c12f702bfb0a6b0b2eb7e24dbc7632) - Update RSS feed. (Oct 15)
 - 💻 [gif](https://github.com/program247365/gif/commit/25f5900e4bbdccb742a7d886f4e39a4142106dfb) - Add gif: office-space-dune-let-the-spice-flow-thx.gif (Sep 17)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/c3d0b68a00d7ead84e7da6a88a36bdfdc0c76c5a) - Update looper to v0.15.1 (Sep 04)
@@ -194,5 +194,5 @@ Evening, coder!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: October 15, 2026 at 04:42 PM EST*
+*Last updated: October 15, 2026 at 10:03 PM EST*
 <!-- last_updated ends -->
