@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    # Runs every two days
-    - cron: '0 0 */2 * *'
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
