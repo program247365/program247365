@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Afternoon vibes!
+Evening, coder!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Afternoon vibes!
 <br>
 
 - **Total Stars Earned:** 185 ⭐
-- **Total Commits (Public):** 162285 
+- **Total Commits (Public):** 162286 
 - **Followers:** 145 
 - **Following:** 287
 - **Public Repositories:** 73
@@ -77,7 +77,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 62 total (8.9 per day)
+- **Commits:** 61 total (8.7 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Afternoon vibes!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [It's the little things](https://kbr.sh/post/2026/Nov/7/its-the-little-things/#atom-everything) - Nov 07, 2026
 - 📝 [My obituary for programming](https://kbr.sh/blogmark/2026/Oct/20/my-obituary-for-programming/#atom-everything) - Oct 20, 2026
 - 📝 [Cory House on X: "AI makes the optimal team size 1-2 people: 1. A “pirate” that vibe codes quickly 2. An architect that focuses on organization and big picture improvements." / X](https://kbr.sh/blogmark/2026/Oct/12/cory-house-on-x-ai-makes-the-optimal-team-size-1-2-people-1-a-pi/#atom-everything) - Oct 12, 2026
 - 📝 [Typing Looks Like Typing](https://kbr.sh/post/2026/Aug/4/typing-looks-like-typing/#atom-everything) - Aug 05, 2026
 - 📝 [Looper](https://kbr.sh/post/2026/Jun/29/looper/#atom-everything) - Jun 29, 2026
-- 📝 [Rewrite Bun in Rust](https://kbr.sh/blogmark/2026/May/14/bun-port-to-rust-done-with-agents/#atom-everything) - May 14, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -147,8 +147,8 @@ Afternoon vibes!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [program247365](https://github.com/program247365/program247365/commit/ba7bd87dc611f1761b5256937ab8c5e3a1fb4f98) - Update README with latest content (Nov 07)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/a7f1fad5356e352ac020a4e5310736e10e7b3547) - Update RSS feed. (Nov 07)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/9362ca47ecb763c9c07f01742e2f75b62583f197) - Update README with latest content (Nov 07)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/92dff53544bed43f022c03467f3e8e5a1c39ba0d) - srv-ify: isolate e2e test plists with SRV_LAUNCH_AGENTS (Nov 04)
 - 💻 [gif](https://github.com/program247365/gif/commit/7e0db378cf456f730d1a5744b5596888fc56995d) - Add gif: someone-cooked-here.gif (Oct 23)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/c3d0b68a00d7ead84e7da6a88a36bdfdc0c76c5a) - Update looper to v0.15.1 (Sep 04)
@@ -194,5 +194,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 07, 2026 at 07:06 AM EST*
+*Last updated: November 07, 2026 at 04:15 PM EST*
 <!-- last_updated ends -->
