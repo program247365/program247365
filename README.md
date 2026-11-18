@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Burning the midnight oil?
+Hello, night owl!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,17 +67,17 @@ Burning the midnight oil?
 <br>
 
 - **Total Stars Earned:** 185 ⭐
-- **Total Commits (Public):** 162302 
-- **Followers:** 144 
+- **Total Commits (Public):** 162312 
+- **Followers:** 143 
 - **Following:** 287
-- **Public Repositories:** 73
+- **Public Repositories:** 74
 - **Public Gists:** 43
 - **Top Languages:** TypeScript, JavaScript, MDX
 
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 26 total (3.7 per day)
+- **Commits:** 18 total (2.6 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,6 +140,7 @@ Burning the midnight oil?
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
+- 🚀 [clawd](https://github.com/program247365/clawd/releases/tag/v0.1.0) - Clawd 0.1.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -147,11 +148,11 @@ Burning the midnight oil?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/8d3d11bdd3312d080ec5f6385bb5500516aa7b76) - Update README with latest content (Nov 11)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/0ae99f78a671b75349f3144f23a51d40d483c70d) - Update RSS feed. (Nov 11)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/92dff53544bed43f022c03467f3e8e5a1c39ba0d) - srv-ify: isolate e2e test plists with SRV_LAUNCH_AGENTS (Nov 04)
-- 💻 [gif](https://github.com/program247365/gif/commit/7e0db378cf456f730d1a5744b5596888fc56995d) - Add gif: someone-cooked-here.gif (Oct 23)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/c3d0b68a00d7ead84e7da6a88a36bdfdc0c76c5a) - Update looper to v0.15.1 (Sep 04)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/1212cbbfb505a4c3cb7122b947dae0eaa551e34e) - Add clawd 0.1.0 (Nov 18)
+- 💻 [agent-plugins](https://github.com/SupernormalCo/agent-plugins/commit/23f8fb1ea7cea57ea90c24d085aac30cb221b5e4) - Publish from SupernormalCo/supermono@26dd06031830 (Nov 18)
+- 💻 [clawd](https://github.com/program247365/clawd/commit/11cf83ae5505224cabc228e2a8d20dcc6b5f4520) - 🦀 clawd init (Nov 18)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/e8fb3a66170bc1f3d782d928752f95306511205e) - docs(worklog): log moving a project skill out of dotfiles (Nov 18)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/bff1c18f3f29717d29dedcdfa345c3ecd3dd915d) - Update RSS feed. (Nov 18)
 
 <!-- recent_commits ends -->
 
@@ -194,5 +195,5 @@ Burning the midnight oil?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 11, 2026 at 11:50 PM EST*
+*Last updated: November 18, 2026 at 06:45 PM EST*
 <!-- last_updated ends -->
