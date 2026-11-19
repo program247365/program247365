@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Hello, night owl!
+Afternoon vibes!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,8 +67,8 @@ Hello, night owl!
 <br>
 
 - **Total Stars Earned:** 185 ⭐
-- **Total Commits (Public):** 162345 
-- **Followers:** 143 
+- **Total Commits (Public):** 162525 
+- **Followers:** 142 
 - **Following:** 287
 - **Public Repositories:** 74
 - **Public Gists:** 43
@@ -77,7 +77,7 @@ Hello, night owl!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 49 total (7.0 per day)
+- **Commits:** 72 total (10.3 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,7 +140,7 @@ Hello, night owl!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [clawd](https://github.com/program247365/clawd/releases/tag/v0.2.0) - Clawd 0.2.0
+- 🚀 [clawd](https://github.com/program247365/clawd/releases/tag/v0.2.1) - Clawd 0.2.1
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -148,11 +148,11 @@ Hello, night owl!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [clawd](https://github.com/program247365/clawd/commit/e0b6a6c3563329abdde68f43ec8395bf465575ca) - Put a waving Clawd at the top of the README and describe 0.2.0 (Nov 19)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/6342fd660a71ff7340242db11136fea7311a16de) - clawd: drop the deprecated verified parameter (Nov 19)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/2ac43e8f237530964bc86c077723316b2bccb34b) - Update README with latest content (Nov 18)
-- 💻 [agent-plugins](https://github.com/SupernormalCo/agent-plugins/commit/23f8fb1ea7cea57ea90c24d085aac30cb221b5e4) - Publish from SupernormalCo/supermono@26dd06031830 (Nov 18)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/e8fb3a66170bc1f3d782d928752f95306511205e) - docs(worklog): log moving a project skill out of dotfiles (Nov 18)
+- 💻 [clawd](https://github.com/program247365/clawd/commit/95f0b022458af108ba0daca3bb26eba897bc369d) - Add a top-level Makefile with help, run, test, deploy, and VM tasks (Nov 19)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/d56fb3ad435e0a7ebdc14a66e58fc761d028d394) - clawd 0.2.1 (Nov 19)
+- 💻 [code-with-claude-2026-sf-recap](https://github.com/program247365/code-with-claude-2026-sf-recap/commit/f6150e222019215373d40b4c64401be7a342ec08) - Name the London presenters on the six Day 2 workshop recordings (Nov 19)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/7fc5aa632595af0093f6bb8c8e04f6db12874d3a) - Update RSS feed. (Nov 19)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/7c3f7bdfd12128e5a2c7d38434e5948e619d35fa) - Update README with latest content (Nov 19)
 
 <!-- recent_commits ends -->
 
@@ -195,5 +195,5 @@ Hello, night owl!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 18, 2026 at 11:59 PM EST*
+*Last updated: November 19, 2026 at 09:56 AM EST*
 <!-- last_updated ends -->
