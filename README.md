@@ -67,7 +67,7 @@ Hello, night owl!
 <br>
 
 - **Total Stars Earned:** 185 ⭐
-- **Total Commits (Public):** 162312 
+- **Total Commits (Public):** 162345 
 - **Followers:** 143 
 - **Following:** 287
 - **Public Repositories:** 74
@@ -77,7 +77,7 @@ Hello, night owl!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 18 total (2.6 per day)
+- **Commits:** 49 total (7.0 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,7 +140,7 @@ Hello, night owl!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [clawd](https://github.com/program247365/clawd/releases/tag/v0.1.0) - Clawd 0.1.0
+- 🚀 [clawd](https://github.com/program247365/clawd/releases/tag/v0.2.0) - Clawd 0.2.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -148,11 +148,11 @@ Hello, night owl!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/1212cbbfb505a4c3cb7122b947dae0eaa551e34e) - Add clawd 0.1.0 (Nov 18)
+- 💻 [clawd](https://github.com/program247365/clawd/commit/e0b6a6c3563329abdde68f43ec8395bf465575ca) - Put a waving Clawd at the top of the README and describe 0.2.0 (Nov 19)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/6342fd660a71ff7340242db11136fea7311a16de) - clawd: drop the deprecated verified parameter (Nov 19)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/2ac43e8f237530964bc86c077723316b2bccb34b) - Update README with latest content (Nov 18)
 - 💻 [agent-plugins](https://github.com/SupernormalCo/agent-plugins/commit/23f8fb1ea7cea57ea90c24d085aac30cb221b5e4) - Publish from SupernormalCo/supermono@26dd06031830 (Nov 18)
-- 💻 [clawd](https://github.com/program247365/clawd/commit/11cf83ae5505224cabc228e2a8d20dcc6b5f4520) - 🦀 clawd init (Nov 18)
 - 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/e8fb3a66170bc1f3d782d928752f95306511205e) - docs(worklog): log moving a project skill out of dotfiles (Nov 18)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/bff1c18f3f29717d29dedcdfa345c3ecd3dd915d) - Update RSS feed. (Nov 18)
 
 <!-- recent_commits ends -->
 
@@ -195,5 +195,5 @@ Hello, night owl!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 18, 2026 at 06:45 PM EST*
+*Last updated: November 18, 2026 at 11:59 PM EST*
 <!-- last_updated ends -->
