@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Good morning!
+Good evening!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Good morning!
 <br>
 
 - **Total Stars Earned:** 186 ⭐
-- **Total Commits (Public):** 162565 
+- **Total Commits (Public):** 162576 
 - **Followers:** 143 
 - **Following:** 287
 - **Public Repositories:** 74
@@ -77,7 +77,7 @@ Good morning!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 111 total (15.9 per day)
+- **Commits:** 121 total (17.3 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,7 +140,7 @@ Good morning!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.8.0) - Deskling 0.8.0
+- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.9.1) - Deskling 0.9.1
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -148,11 +148,11 @@ Good morning!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [program247365](https://github.com/program247365/program247365/commit/3a36d1f2bb7904791181c4362ee6a28051a04020) - Update README with latest content (Nov 20)
-- 💻 [deskling](https://github.com/program247365/deskling/commit/e309d6d28797fd960c3319e6b0e587d54c5421e9) - Ignore the soak harness's Package.resolved (Nov 19)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/1c1e5302097761ea080a9c2c8f6dc470515fb34e) - deskling 0.8.0 (Nov 19)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/b5de080dd76c75fec24040145aba3c8ded8a5e53) - deskling 0.9.1 (Nov 20)
+- 💻 [deskling](https://github.com/program247365/deskling/commit/b1d049d5bed0539ae72b20f19a47fee68f229ffb) - Deskling 0.9.1 (Nov 20)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/242ebf40795a365351f4490451509a880bf9367b) - Update RSS feed. (Nov 20)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/3c6f920b18e2283dc535890b1da1fe6370e5b9a6) - Update README with latest content (Nov 20)
 - 💻 [code-with-claude-2026-sf-recap](https://github.com/program247365/code-with-claude-2026-sf-recap/commit/f6150e222019215373d40b4c64401be7a342ec08) - Name the London presenters on the six Day 2 workshop recordings (Nov 19)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/7fc5aa632595af0093f6bb8c8e04f6db12874d3a) - Update RSS feed. (Nov 19)
 
 <!-- recent_commits ends -->
 
@@ -195,5 +195,5 @@ Good morning!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 20, 2026 at 01:04 AM EST*
+*Last updated: November 20, 2026 at 02:27 PM EST*
 <!-- last_updated ends -->
