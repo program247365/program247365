@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Afternoon vibes!
+Burning the midnight oil?
 <!-- greeting ends -->
 
 <div align="center">
@@ -66,9 +66,9 @@ Afternoon vibes!
 <summary>📊 More Stats</summary>
 <br>
 
-- **Total Stars Earned:** 185 ⭐
-- **Total Commits (Public):** 162525 
-- **Followers:** 142 
+- **Total Stars Earned:** 186 ⭐
+- **Total Commits (Public):** 162564 
+- **Followers:** 143 
 - **Following:** 287
 - **Public Repositories:** 74
 - **Public Gists:** 43
@@ -77,7 +77,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 72 total (10.3 per day)
+- **Commits:** 110 total (15.7 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,7 +140,7 @@ Afternoon vibes!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [clawd](https://github.com/program247365/clawd/releases/tag/v0.2.1) - Clawd 0.2.1
+- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.8.0) - Deskling 0.8.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -148,11 +148,11 @@ Afternoon vibes!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [clawd](https://github.com/program247365/clawd/commit/95f0b022458af108ba0daca3bb26eba897bc369d) - Add a top-level Makefile with help, run, test, deploy, and VM tasks (Nov 19)
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/d56fb3ad435e0a7ebdc14a66e58fc761d028d394) - clawd 0.2.1 (Nov 19)
+- 💻 [deskling](https://github.com/program247365/deskling/commit/e309d6d28797fd960c3319e6b0e587d54c5421e9) - Ignore the soak harness's Package.resolved (Nov 19)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/1c1e5302097761ea080a9c2c8f6dc470515fb34e) - deskling 0.8.0 (Nov 19)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/cc8d1e590aef358e8f9f6da885c246f41cf6fb64) - Update README with latest content (Nov 19)
 - 💻 [code-with-claude-2026-sf-recap](https://github.com/program247365/code-with-claude-2026-sf-recap/commit/f6150e222019215373d40b4c64401be7a342ec08) - Name the London presenters on the six Day 2 workshop recordings (Nov 19)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/7fc5aa632595af0093f6bb8c8e04f6db12874d3a) - Update RSS feed. (Nov 19)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/7c3f7bdfd12128e5a2c7d38434e5948e619d35fa) - Update README with latest content (Nov 19)
 
 <!-- recent_commits ends -->
 
@@ -195,5 +195,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 19, 2026 at 09:56 AM EST*
+*Last updated: November 19, 2026 at 07:03 PM EST*
 <!-- last_updated ends -->
