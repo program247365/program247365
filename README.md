@@ -67,7 +67,7 @@ Hello, night owl!
 <br>
 
 - **Total Stars Earned:** 189 ⭐
-- **Total Commits (Public):** 162603 
+- **Total Commits (Public):** 162604 
 - **Followers:** 145 
 - **Following:** 287
 - **Public Repositories:** 75
@@ -77,7 +77,7 @@ Hello, night owl!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 140 total (20.0 per day)
+- **Commits:** 141 total (20.1 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Hello, night owl!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [The end of the beginning](https://kbr.sh/blogmark/2026/Nov/21/the-end-of-the-beginning/#atom-everything) - Nov 21, 2026
 - 📝 [It's the little things](https://kbr.sh/post/2026/Nov/7/its-the-little-things/#atom-everything) - Nov 07, 2026
 - 📝 [My obituary for programming](https://kbr.sh/blogmark/2026/Oct/20/my-obituary-for-programming/#atom-everything) - Oct 20, 2026
 - 📝 [Cory House on X: "AI makes the optimal team size 1-2 people: 1. A “pirate” that vibe codes quickly 2. An architect that focuses on organization and big picture improvements." / X](https://kbr.sh/blogmark/2026/Oct/12/cory-house-on-x-ai-makes-the-optimal-team-size-1-2-people-1-a-pi/#atom-everything) - Oct 12, 2026
 - 📝 [Typing Looks Like Typing](https://kbr.sh/post/2026/Aug/4/typing-looks-like-typing/#atom-everything) - Aug 05, 2026
-- 📝 [Looper](https://kbr.sh/post/2026/Jun/29/looper/#atom-everything) - Jun 29, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -148,9 +148,9 @@ Hello, night owl!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
+- 💻 [program247365](https://github.com/program247365/program247365/commit/61ce8fac0c190d7bc4c130fac56aaf95aad53f21) - Update README with latest content (Nov 21)
 - 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/153399760065f6eb0cb95b22abef309c4f45d716) - agentd 0.2.1 (Nov 21)
 - 💻 [agentd](https://github.com/program247365/agentd/commit/02798ddfd43f96a46c3d8bac44c71151294a9f3f) - chore: bump to 0.2.1 (Nov 21)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/d091684a74691e9fd15426ba4e585b65a019741d) - Update README with latest content (Nov 21)
 - 💻 [agent-plugins](https://github.com/SupernormalCo/agent-plugins/commit/7a2aafc6c1a1adb05309204221f9b18288b777e5) - Publish from SupernormalCo/supermono@ee723e7fd9af (Nov 21)
 - 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/8018f3469e521af6feb888a0d96b7470a573ae59) - Update RSS feed. (Nov 21)
 
@@ -195,5 +195,5 @@ Hello, night owl!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 21, 2026 at 05:37 PM EST*
+*Last updated: November 21, 2026 at 10:59 PM EST*
 <!-- last_updated ends -->
