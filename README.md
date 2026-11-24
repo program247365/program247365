@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Afternoon vibes!
+Late night coding session?
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,8 +67,8 @@ Afternoon vibes!
 <br>
 
 - **Total Stars Earned:** 189 ⭐
-- **Total Commits (Public):** 162617 
-- **Followers:** 144 
+- **Total Commits (Public):** 162636 
+- **Followers:** 143 
 - **Following:** 287
 - **Public Repositories:** 75
 - **Public Gists:** 43
@@ -77,7 +77,7 @@ Afternoon vibes!
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 151 total (21.6 per day)
+- **Commits:** 169 total (24.1 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -128,11 +128,11 @@ Afternoon vibes!
 ## 📝 Latest Blog Posts
 
 <!-- recent_blog_posts starts -->
+- 📝 [All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI](https://kbr.sh/blogmark/2026/Nov/23/all-code-is-slop-except-mine-lauren-tan-spacexsi/#atom-everything) - Nov 24, 2026
 - 📝 [The end of the beginning](https://kbr.sh/blogmark/2026/Nov/21/the-end-of-the-beginning/#atom-everything) - Nov 21, 2026
 - 📝 [It's the little things](https://kbr.sh/post/2026/Nov/7/its-the-little-things/#atom-everything) - Nov 07, 2026
 - 📝 [My obituary for programming](https://kbr.sh/blogmark/2026/Oct/20/my-obituary-for-programming/#atom-everything) - Oct 20, 2026
 - 📝 [Cory House on X: "AI makes the optimal team size 1-2 people: 1. A “pirate” that vibe codes quickly 2. An architect that focuses on organization and big picture improvements." / X](https://kbr.sh/blogmark/2026/Oct/12/cory-house-on-x-ai-makes-the-optimal-team-size-1-2-people-1-a-pi/#atom-everything) - Oct 12, 2026
-- 📝 [Typing Looks Like Typing](https://kbr.sh/post/2026/Aug/4/typing-looks-like-typing/#atom-everything) - Aug 05, 2026
 
 <!-- recent_blog_posts ends -->
 
@@ -140,7 +140,7 @@ Afternoon vibes!
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.11.1) - Deskling 0.11.1
+- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.12.0) - Deskling 0.12.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -148,11 +148,11 @@ Afternoon vibes!
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/7fce47ed0e4b71ae59e8045614fe346fa49c8d9d) - deskling 0.11.1 (Nov 23)
-- 💻 [deskling](https://github.com/program247365/deskling/commit/989eefbc62c156d93c6f3cd5ad0220dae1b2a070) - Clicking an alert dismisses it, even when it takes you somewhere (Nov 23)
-- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/77b014b4fec862ebd75489166cb9a5264fb700e8) - Update RSS feed. (Nov 23)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/c4dd44d4d340f0e8cce9a5728325bb69949477dc) - Update README with latest content (Nov 23)
-- 💻 [agentd](https://github.com/program247365/agentd/commit/02798ddfd43f96a46c3d8bac44c71151294a9f3f) - chore: bump to 0.2.1 (Nov 21)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/7ce5616a31dfba8e03f6ae9096ce8e5f14a87a5f) - agentd 0.3.2 (Nov 24)
+- 💻 [agentd](https://github.com/program247365/agentd/commit/f0e6500c0c604524a5a1060ad38a26f54c0fd53f) - agentd 0.3.2: lock the hub and the browser against loopback neighbours (Nov 24)
+- 💻 [deskling](https://github.com/program247365/deskling/commit/b063fa0e74011b5d21e9f25513d970666823c53a) - Deskling 0.12.0 (Nov 24)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/77901f1f50da47b5a3d42bc26a8eb3d316d9b94c) - chore(claude): enable the deskling plugin (Nov 23)
+- 💻 [program247365](https://github.com/program247365/program247365/commit/29813684b3e9a001ab35001626da60142c79023a) - Update README with latest content (Nov 23)
 
 <!-- recent_commits ends -->
 
@@ -195,5 +195,5 @@ Afternoon vibes!
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 23, 2026 at 11:50 AM EST*
+*Last updated: November 23, 2026 at 10:39 PM EST*
 <!-- last_updated ends -->
