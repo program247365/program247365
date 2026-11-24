@@ -1,7 +1,7 @@
 # Hey there! I'm Kevin 👋
 
 <!-- greeting starts -->
-Late night coding session?
+Afternoon vibes!
 <!-- greeting ends -->
 
 <div align="center">
@@ -67,7 +67,7 @@ Late night coding session?
 <br>
 
 - **Total Stars Earned:** 189 ⭐
-- **Total Commits (Public):** 162636 
+- **Total Commits (Public):** 162649 
 - **Followers:** 143 
 - **Following:** 287
 - **Public Repositories:** 75
@@ -77,7 +77,7 @@ Late night coding session?
 </details>
 
 ### 📈 This Week's Coding Stats
-- **Commits:** 169 total (24.1 per day)
+- **Commits:** 181 total (25.9 per day)
 - **Most Active Language:** TypeScript
 
 <!-- github_stats ends -->
@@ -140,7 +140,7 @@ Late night coding session?
 
 ### 🏗️ Latest Releases
 <!-- recent_releases starts -->
-- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.12.0) - Deskling 0.12.0
+- 🚀 [deskling](https://github.com/program247365/deskling/releases/tag/v0.14.0) - Deskling 0.14.0
 - 🚀 [looper](https://github.com/program247365/looper/releases/tag/v0.15.1) - v0.15.1
 - 🚀 [hackertuah](https://github.com/program247365/hackertuah/releases/tag/v0.5.0) - v0.5.0
 
@@ -148,11 +148,11 @@ Late night coding session?
 
 ### 💻 Recent Commits
 <!-- recent_commits starts -->
-- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/7ce5616a31dfba8e03f6ae9096ce8e5f14a87a5f) - agentd 0.3.2 (Nov 24)
-- 💻 [agentd](https://github.com/program247365/agentd/commit/f0e6500c0c604524a5a1060ad38a26f54c0fd53f) - agentd 0.3.2: lock the hub and the browser against loopback neighbours (Nov 24)
-- 💻 [deskling](https://github.com/program247365/deskling/commit/b063fa0e74011b5d21e9f25513d970666823c53a) - Deskling 0.12.0 (Nov 24)
-- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/77901f1f50da47b5a3d42bc26a8eb3d316d9b94c) - chore(claude): enable the deskling plugin (Nov 23)
-- 💻 [program247365](https://github.com/program247365/program247365/commit/29813684b3e9a001ab35001626da60142c79023a) - Update README with latest content (Nov 23)
+- 💻 [homebrew-tap](https://github.com/program247365/homebrew-tap/commit/3766295cfe206e3a1cef7d193a25e04a9c533f78) - deskling 0.14.0 (Nov 24)
+- 💻 [deskling](https://github.com/program247365/deskling/commit/7132a1361de16a55dfbc4af00e61901638883a01) - Deskling 0.14.0 (Nov 24)
+- 💻 [dotfiles](https://github.com/program247365/dotfiles/commit/40287aed6aa4fbd7606e09ae38c3117d4e7b4c69) - Keep the work tag and employer name out of the repo (Nov 24)
+- 💻 [agent-plugins](https://github.com/SupernormalCo/agent-plugins/commit/63a44e0682e0a41fa16915addd1b6f138470b1ce) - Publish from SupernormalCo/supermono@e00f4be7f3cd (Nov 24)
+- 💻 [paulgraham-rss](https://github.com/program247365/paulgraham-rss/commit/525606cf973ec389b920e6ff2e4b319e9d3b5e81) - Update RSS feed. (Nov 24)
 
 <!-- recent_commits ends -->
 
@@ -195,5 +195,5 @@ Late night coding session?
 </p>
 
 <!-- last_updated starts -->
-*Last updated: November 23, 2026 at 10:39 PM EST*
+*Last updated: November 24, 2026 at 11:45 AM EST*
 <!-- last_updated ends -->
